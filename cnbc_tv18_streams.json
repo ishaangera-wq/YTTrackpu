@@ -1,147 +1,171 @@
 [
   {
     "channel": "CNBC-TV18",
-    "position": 3,
+    "position": 2,
+    "title": "🔴TVK Vijay Road Show LIVE: Vijay Rally in Tirupur | TVK Vijay Speech LIVE | TN Election 2026 | N18L",
+    "url": "https://www.youtube.com/watch?v=hIdGR2sWO1U",
+    "thumbnail_url": "https://i.ytimg.com/vi/hIdGR2sWO1U/hqdefault.jpg?v=69ddfc25&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW09Gp4-nKn_M_JbAjZETKsTHH_Q",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "568 watching",
+      "568 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "568 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 568,
+    "waiting_count": null,
+    "recency_signal": "568 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 5,
     "title": "Share Market Live Today | Strait Of Hormuz Blockade | US-Iran War Updates | April 14th | CNBC TV18",
     "url": "https://www.youtube.com/watch?v=bXAGqLHXfMs",
     "thumbnail_url": "https://i.ytimg.com/vi/bXAGqLHXfMs/hqdefault.jpg?v=69ddad2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7rHE8noDyyMkhG1iSrrMMbbmwhA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "236 watching",
-      "236 watching"
+      "190 watching",
+      "190 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "236 watching",
+    "viewer_count_text": "190 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 236,
+    "viewer_count": 190,
     "waiting_count": null,
-    "recency_signal": "236 watching | LIVE"
+    "recency_signal": "190 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 4,
-    "title": "🔴TVK Vijay Election Rally LIVE: கன்னியாகுமரியில் விஜய் | Vijay Speech LIVE | TN Election 2026 | N18L",
-    "url": "https://www.youtube.com/watch?v=7jtryo-Sikg",
-    "thumbnail_url": "https://i.ytimg.com/vi/7jtryo-Sikg/hqdefault.jpg?v=69dde213&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx1uCdT9Srp8IknyoVCYonIIl2ww",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "151 watching",
-      "151 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "151 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 151,
-    "waiting_count": null,
-    "recency_signal": "151 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 6,
+    "position": 7,
     "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
     "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
     "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "109 watching",
-      "109 watching"
+      "142 watching",
+      "142 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "109 watching",
+    "viewer_count_text": "142 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 109,
+    "viewer_count": 142,
     "waiting_count": null,
-    "recency_signal": "109 watching | LIVE"
+    "recency_signal": "142 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 7,
+    "position": 8,
     "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
     "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
     "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "106 watching",
-      "106 watching"
+      "92 watching",
+      "92 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "106 watching",
+    "viewer_count_text": "92 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 106,
+    "viewer_count": 92,
     "waiting_count": null,
-    "recency_signal": "106 watching | LIVE"
+    "recency_signal": "92 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 5,
+    "position": 6,
     "title": "NASA's Artemis II LIVE Mission Coverage: Artemis II Splashdown LIVE– Artemis II Lunar Mission | N18G",
     "url": "https://www.youtube.com/watch?v=jkOMpGXwDps",
     "thumbnail_url": "https://i.ytimg.com/vi/jkOMpGXwDps/hqdefault.jpg?v=69d93757&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC2CUGgXuQNHvjKz7pYJgEWLrwMQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "73 watching",
-      "73 watching"
+      "81 watching",
+      "81 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "73 watching",
+    "viewer_count_text": "81 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 73,
+    "viewer_count": 81,
     "waiting_count": null,
-    "recency_signal": "73 watching | LIVE"
+    "recency_signal": "81 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 2,
+    "position": 4,
     "title": "PM Modi LIVE | PM Holds Roadshow In Saharanpur Ahead Of Delhi–Dehradun Corridor Inauguration | N18L",
     "url": "https://www.youtube.com/watch?v=61B_cgmqoVY",
     "thumbnail_url": "https://i.ytimg.com/vi/61B_cgmqoVY/hqdefault.jpg?v=69dde190&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4r2qFY825v4TRbdSywXGbS7E7sg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "23 watching",
-      "23 watching"
+      "66 watching",
+      "66 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "23 watching",
+    "viewer_count_text": "66 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 23,
+    "viewer_count": 66,
     "waiting_count": null,
-    "recency_signal": "23 watching | LIVE"
+    "recency_signal": "66 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 3,
+    "title": "🔴TVK Vijay Speech LIVE: கோவை to திருப்பூர்.. விஜய் ROAD SHOW | Vijay Rally in Tiruppur DMK | |N18L",
+    "url": "https://www.youtube.com/watch?v=Ou_H8MFscNg",
+    "thumbnail_url": "https://i.ytimg.com/vi/Ou_H8MFscNg/hqdefault.jpg?v=69ddf80e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBffgOfyx_Uk4fadEUPgeq-iGqxRg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "2,046 watching",
+      "2K watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "2,046 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 2,
+    "waiting_count": null,
+    "recency_signal": "2,046 watching | LIVE | 2K watching"
   },
   {
     "channel": "The Economic Times",
@@ -151,21 +175,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/7lz7sfOuoB0/hqdefault.jpg?v=69dcdcc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4IqKE-AurwG-wvZEPSpqvJ1rpFQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "32 watching",
-      "32 watching"
+      "33 watching",
+      "33 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "32 watching",
+    "viewer_count_text": "33 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 32,
+    "viewer_count": 33,
     "waiting_count": null,
-    "recency_signal": "32 watching | LIVE"
+    "recency_signal": "33 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -175,21 +199,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/ues3VMfPAy8/hqdefault.jpg?v=69dcef90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Xp9CzQfsBZK0HuSXh7CkNMTiVg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "11 watching",
-      "11 watching"
+      "12 watching",
+      "12 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "11 watching",
+    "viewer_count_text": "12 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 11,
+    "viewer_count": 12,
     "waiting_count": null,
-    "recency_signal": "11 watching | LIVE"
+    "recency_signal": "12 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -199,21 +223,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/ZJzQomJwuSQ/hqdefault.jpg?v=69dcd86b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpEGNMR4tgpYV-YE2OqUOn0caarQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "7 watching",
-      "7 watching"
+      "6 watching",
+      "6 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "7 watching",
+    "viewer_count_text": "6 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "waiting_count": null,
-    "recency_signal": "7 watching | LIVE"
+    "recency_signal": "6 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -232,36 +256,12 @@
     "viewer_count_text": "6 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 6,
     "waiting_count": null,
     "recency_signal": "6 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 1,
-    "title": "LIVE | Vatican diplomacy under fire as Trump-Pope feud explodes at US Helsinki Commission hearing",
-    "url": "https://www.youtube.com/watch?v=1At41gQGjNI",
-    "thumbnail_url": "https://i.ytimg.com/vi/1At41gQGjNI/hqdefault.jpg?v=69dd559d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-RxXhYfx26XS5qkP-FRIcFAAzlA",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "2 watching",
-      "2 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "2 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -271,45 +271,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/7agD6yrQ_Ak/hqdefault.jpg?v=69dd1775&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKNAxQLi6BzjZgqdRsEcIlAohRuQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "2 watching",
-      "2 watching"
+      "4 watching",
+      "4 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "2 watching",
+    "viewer_count_text": "4 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "waiting_count": null,
-    "recency_signal": "2 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 7,
-    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
-    "url": "https://www.youtube.com/watch?v=JnFd15i_rrg",
-    "thumbnail_url": "https://i.ytimg.com/vi/JnFd15i_rrg/hqdefault.jpg?v=69dcdcf2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu_Y6pv15IUqAAZjsHBrcl4RVk0w",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "2 watching",
-      "2 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "2 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2 watching | LIVE"
+    "recency_signal": "4 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -319,21 +295,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/lHAtfgP5VG0/hqdefault.jpg?v=69dcdce4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOEhPGOpIBuw-PlofcdlZFj4lu-g",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "2 watching",
-      "2 watching"
+      "4 watching",
+      "4 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "2 watching",
+    "viewer_count_text": "4 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 2,
+    "viewer_count": 4,
     "waiting_count": null,
-    "recency_signal": "2 watching | LIVE"
+    "recency_signal": "4 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 7,
+    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
+    "url": "https://www.youtube.com/watch?v=JnFd15i_rrg",
+    "thumbnail_url": "https://i.ytimg.com/vi/JnFd15i_rrg/hqdefault.jpg?v=69dcdcf2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu_Y6pv15IUqAAZjsHBrcl4RVk0w",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "3 watching",
+      "3 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "3 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 3,
+    "waiting_count": null,
+    "recency_signal": "3 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -352,12 +352,33 @@
     "viewer_count_text": "1 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 1,
     "waiting_count": null,
     "recency_signal": "1 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 1,
+    "title": "LIVE | Vatican diplomacy under fire as Trump-Pope feud explodes at US Helsinki Commission hearing",
+    "url": "https://www.youtube.com/watch?v=1At41gQGjNI",
+    "thumbnail_url": "https://i.ytimg.com/vi/1At41gQGjNI/hqdefault.jpg?v=69dd559d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-RxXhYfx26XS5qkP-FRIcFAAzlA",
+    "badge_text": "LIVE",
+    "metadata_texts": [],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": null,
+    "waiting_count": null,
+    "recency_signal": "LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -373,7 +394,7 @@
     "viewer_count_text": "",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": null,
@@ -388,45 +409,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "97 watching",
-      "97 watching"
+      "105 watching",
+      "105 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "97 watching",
+    "viewer_count_text": "105 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 97,
+    "viewer_count": 105,
     "waiting_count": null,
-    "recency_signal": "97 watching | LIVE"
+    "recency_signal": "105 watching | LIVE"
   },
   {
     "channel": "Zee Business",
     "position": 1,
-    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
-    "url": "https://www.youtube.com/watch?v=PJiJtdsespY",
-    "thumbnail_url": "https://i.ytimg.com/vi/PJiJtdsespY/hqdefault.jpg?v=69dd1f59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHxJJRSFvm0i7IEag6BxdMt-2OYA",
+    "title": "14th April 2026 : Zee Business Live | Share Market Live Updates | Stock Market News",
+    "url": "https://www.youtube.com/watch?v=B642p146gSc",
+    "thumbnail_url": "https://i.ytimg.com/vi/B642p146gSc/hqdefault.jpg?v=69ddfbb4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI9o613_W_sHK2Iw0bPxkBL7-L5A",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "340 watching",
-      "340 watching"
+      "246 watching",
+      "246 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "340 watching",
+    "viewer_count_text": "246 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 340,
+    "viewer_count": 246,
     "waiting_count": null,
-    "recency_signal": "340 watching | LIVE"
+    "recency_signal": "246 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -436,21 +457,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "117 watching",
-      "117 watching"
+      "196 watching",
+      "196 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "117 watching",
+    "viewer_count_text": "196 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 117,
+    "viewer_count": 196,
     "waiting_count": null,
-    "recency_signal": "117 watching | LIVE"
+    "recency_signal": "196 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -460,21 +481,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "24 watching",
-      "24 watching"
+      "28 watching",
+      "28 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "24 watching",
+    "viewer_count_text": "28 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 24,
+    "viewer_count": 28,
     "waiting_count": null,
-    "recency_signal": "24 watching | LIVE"
+    "recency_signal": "28 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
@@ -484,21 +505,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/4fmQEDYPZZ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBbPuw8uO9wP8Zpi0l5mgDPcAUbw",
     "badge_text": "UPCOMING",
     "metadata_texts": [
-      "3 waiting",
-      "3 waiting"
+      "57 waiting",
+      "57 waiting"
     ],
     "overlay_texts": [
       "Upcoming"
     ],
     "viewer_count_text": "",
-    "waiting_count_text": "3 waiting",
-    "scheduled_at_text": "2026-04-14T09:35:00+00:00",
-    "collected_at_iso": "2026-04-14T07:27:41+00:00",
+    "waiting_count_text": "57 waiting",
+    "scheduled_at_text": "2026-04-14T10:05:00+00:00",
+    "collected_at_iso": "2026-04-14T09:15:45+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "upcoming",
     "viewer_count": null,
-    "waiting_count": 3,
-    "recency_signal": "3 waiting | 2026-04-14T09:35:00+00:00 | UPCOMING"
+    "waiting_count": 57,
+    "recency_signal": "57 waiting | 2026-04-14T10:05:00+00:00 | UPCOMING"
   },
   {
     "channel": "Yahoo Finance",
@@ -517,7 +538,7 @@
     "viewer_count_text": "",
     "waiting_count_text": "2 waiting",
     "scheduled_at_text": "2026-04-14T19:00:00+00:00",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
@@ -531,21 +552,18 @@
     "url": "https://www.youtube.com/watch?v=faG-qmoaSo0",
     "thumbnail_url": "https://i.ytimg.com/vi/faG-qmoaSo0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmBpN7GJVChENZ5V4ttPLS0w5x1Q",
     "badge_text": "UPCOMING",
-    "metadata_texts": [
-      "1 waiting",
-      "1 waiting"
-    ],
+    "metadata_texts": [],
     "overlay_texts": [
       "Upcoming"
     ],
     "viewer_count_text": "",
-    "waiting_count_text": "1 waiting",
+    "waiting_count_text": "",
     "scheduled_at_text": "2026-04-14T13:00:00+00:00",
-    "collected_at_iso": "2026-04-14T07:27:42+00:00",
+    "collected_at_iso": "2026-04-14T09:15:46+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
-    "waiting_count": 1,
-    "recency_signal": "1 waiting | 2026-04-14T13:00:00+00:00 | UPCOMING"
+    "waiting_count": null,
+    "recency_signal": "2026-04-14T13:00:00+00:00 | UPCOMING"
   }
 ]
