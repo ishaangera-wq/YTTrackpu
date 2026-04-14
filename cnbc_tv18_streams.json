@@ -1,75 +1,51 @@
 [
   {
     "channel": "CNBC-TV18",
-    "position": 2,
-    "title": "🔴Atlético Madrid vs Barcelona LIVE: Champions League Quarter-Final UEFA Match | Lamine Yamal | N18G",
-    "url": "https://www.youtube.com/watch?v=j6sZEgSOEYI",
-    "thumbnail_url": "https://i.ytimg.com/vi/j6sZEgSOEYI/hqdefault.jpg?v=69de65c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ4u-Fc7aInyNBJPPGnEQnLSD8fQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "471 watching",
-      "471 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "471 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 471,
-    "waiting_count": null,
-    "recency_signal": "471 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "🔴Barcelona vs Atlético Madrid LIVE: UEFA Champions League Quarterfinal Match | UCL 2026 LIVE | N18G",
-    "url": "https://www.youtube.com/watch?v=LdGZzM08VXA",
-    "thumbnail_url": "https://i.ytimg.com/vi/LdGZzM08VXA/hqdefault.jpg?v=69de6461&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC0MsIdpkz0n4ElMTQhDosv06_yQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "325 watching",
-      "325 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "325 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 325,
-    "waiting_count": null,
-    "recency_signal": "325 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
     "position": 6,
     "title": "LIVE: Pope Leo XIV Visits Annaba During His Africa Trip | Pope Leo in Africa | Trump vs Pope | N18G",
     "url": "https://www.youtube.com/watch?v=4fmQEDYPZZ8",
     "thumbnail_url": "https://i.ytimg.com/vi/4fmQEDYPZZ8/hqdefault.jpg?v=69de850f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBbPuw8uO9wP8Zpi0l5mgDPcAUbw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "181 watching",
-      "181 watching"
+      "213 watching",
+      "213 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "181 watching",
+    "viewer_count_text": "213 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 181,
+    "viewer_count": 213,
     "waiting_count": null,
-    "recency_signal": "181 watching | LIVE"
+    "recency_signal": "213 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 2,
+    "title": "🔴Atlético Madrid vs Barcelona LIVE: Champions League Quarter-Final UEFA Match | Lamine Yamal | N18G",
+    "url": "https://www.youtube.com/watch?v=j6sZEgSOEYI",
+    "thumbnail_url": "https://i.ytimg.com/vi/j6sZEgSOEYI/hqdefault.jpg?v=69de65c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ4u-Fc7aInyNBJPPGnEQnLSD8fQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "153 watching",
+      "153 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "153 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 153,
+    "waiting_count": null,
+    "recency_signal": "153 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
@@ -79,21 +55,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "107 watching",
-      "107 watching"
+      "97 watching",
+      "97 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "107 watching",
+    "viewer_count_text": "97 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 107,
+    "viewer_count": 97,
     "waiting_count": null,
-    "recency_signal": "107 watching | LIVE"
+    "recency_signal": "97 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 5,
+    "title": "🔴Barcelona vs Atlético Madrid LIVE: UEFA Champions League Quarterfinal Match | UCL 2026 LIVE | N18G",
+    "url": "https://www.youtube.com/watch?v=LdGZzM08VXA",
+    "thumbnail_url": "https://i.ytimg.com/vi/LdGZzM08VXA/hqdefault.jpg?v=69de6461&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC0MsIdpkz0n4ElMTQhDosv06_yQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "95 watching",
+      "95 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "95 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 95,
+    "waiting_count": null,
+    "recency_signal": "95 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
@@ -101,174 +101,6 @@
     "title": "🔴UEFA Champions League Quarterfinal LIVE: Barcelona vs Atlético Madrid LIVE | UCL 2026 LIVE | N18G",
     "url": "https://www.youtube.com/watch?v=-P80GZmLrm0",
     "thumbnail_url": "https://i.ytimg.com/vi/-P80GZmLrm0/hqdefault.jpg?v=69de6dd8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnXWXrz6LFpMZOnnpZ-saVwqG4OQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "54 watching",
-      "54 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "54 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 54,
-    "waiting_count": null,
-    "recency_signal": "54 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "🔴PSG vs Liverpool LIVE: Champions League Quarter-Final LIVE | Hakimi vs Salah | UEFA Match | N18G",
-    "url": "https://www.youtube.com/watch?v=_ZvUyszz-OE",
-    "thumbnail_url": "https://i.ytimg.com/vi/_ZvUyszz-OE/hqdefault.jpg?v=69de89b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaA386d8nrNZrAYaZjU6Hp1LZ1-Q",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "35 watching",
-      "35 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "35 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 35,
-    "waiting_count": null,
-    "recency_signal": "35 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 7,
-    "title": "🔴TVK Vijay Speech LIVE: கோவை to திருப்பூர்.. விஜய் ROAD SHOW | Vijay Rally in Tiruppur DMK | |N18L",
-    "url": "https://www.youtube.com/watch?v=Ou_H8MFscNg",
-    "thumbnail_url": "https://i.ytimg.com/vi/Ou_H8MFscNg/hqdefault.jpg?v=69ddf80e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBffgOfyx_Uk4fadEUPgeq-iGqxRg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "30 watching",
-      "30 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "30 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 30,
-    "waiting_count": null,
-    "recency_signal": "30 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 4,
-    "title": "🔴Champions League Quarter-Final LIVE: PSG vs Liverpool UEFA Match | Mohamed Salah | UFL 2026 | N18G",
-    "url": "https://www.youtube.com/watch?v=GE-tf18SkV0",
-    "thumbnail_url": "https://i.ytimg.com/vi/GE-tf18SkV0/hqdefault.jpg?v=69de6708&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdfWCPXwqY-vTH6SbHnIRSvAvzGg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "27 watching",
-      "27 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "27 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 27,
-    "waiting_count": null,
-    "recency_signal": "27 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 9,
-    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
-    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
-    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "19 watching",
-      "19 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "19 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:27+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 19,
-    "waiting_count": null,
-    "recency_signal": "19 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 5,
-    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
-    "url": "https://www.youtube.com/watch?v=ZnJFgEzN7vg",
-    "thumbnail_url": "https://i.ytimg.com/vi/ZnJFgEzN7vg/hqdefault.jpg?v=69de286d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYRrJZLe43FThWFp5oEchkt9-xNw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "304 watching",
-      "304 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "304 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 304,
-    "waiting_count": null,
-    "recency_signal": "304 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 7,
-    "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
-    "url": "https://www.youtube.com/watch?v=7lz7sfOuoB0",
-    "thumbnail_url": "https://i.ytimg.com/vi/7lz7sfOuoB0/hqdefault.jpg?v=69dcdcc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4IqKE-AurwG-wvZEPSpqvJ1rpFQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "109 watching",
-      "109 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "109 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 109,
-    "waiting_count": null,
-    "recency_signal": "109 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 6,
-    "title": "‘You want names? I’ll give you names’: Kash Patel drops Epstein bombshell at explosive House hearing",
-    "url": "https://www.youtube.com/watch?v=ues3VMfPAy8",
-    "thumbnail_url": "https://i.ytimg.com/vi/ues3VMfPAy8/hqdefault.jpg?v=69dcef90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Xp9CzQfsBZK0HuSXh7CkNMTiVg",
     "badge_text": "LIVE",
     "metadata_texts": [
       "24 watching",
@@ -280,12 +112,180 @@
     "viewer_count_text": "24 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
     "viewer_count": 24,
     "waiting_count": null,
     "recency_signal": "24 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 7,
+    "title": "🔴TVK Vijay Speech LIVE: கோவை to திருப்பூர்.. விஜய் ROAD SHOW | Vijay Rally in Tiruppur DMK | |N18L",
+    "url": "https://www.youtube.com/watch?v=Ou_H8MFscNg",
+    "thumbnail_url": "https://i.ytimg.com/vi/Ou_H8MFscNg/hqdefault.jpg?v=69ddf80e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBffgOfyx_Uk4fadEUPgeq-iGqxRg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "19 watching",
+      "19 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "19 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 19,
+    "waiting_count": null,
+    "recency_signal": "19 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 1,
+    "title": "🔴PSG vs Liverpool LIVE: Champions League Quarter-Final LIVE | Hakimi vs Salah | UEFA Match | N18G",
+    "url": "https://www.youtube.com/watch?v=_ZvUyszz-OE",
+    "thumbnail_url": "https://i.ytimg.com/vi/_ZvUyszz-OE/hqdefault.jpg?v=69de89b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaA386d8nrNZrAYaZjU6Hp1LZ1-Q",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "16 watching",
+      "16 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "16 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 16,
+    "waiting_count": null,
+    "recency_signal": "16 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 9,
+    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
+    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
+    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "16 watching",
+      "16 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "16 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 16,
+    "waiting_count": null,
+    "recency_signal": "16 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 4,
+    "title": "🔴Champions League Quarter-Final LIVE: PSG vs Liverpool UEFA Match | Mohamed Salah | UFL 2026 | N18G",
+    "url": "https://www.youtube.com/watch?v=GE-tf18SkV0",
+    "thumbnail_url": "https://i.ytimg.com/vi/GE-tf18SkV0/hqdefault.jpg?v=69de6708&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdfWCPXwqY-vTH6SbHnIRSvAvzGg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "4 watching",
+      "4 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "4 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 4,
+    "waiting_count": null,
+    "recency_signal": "4 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 5,
+    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
+    "url": "https://www.youtube.com/watch?v=ZnJFgEzN7vg",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZnJFgEzN7vg/hqdefault.jpg?v=69de286d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYRrJZLe43FThWFp5oEchkt9-xNw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "348 watching",
+      "348 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "348 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 348,
+    "waiting_count": null,
+    "recency_signal": "348 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 7,
+    "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
+    "url": "https://www.youtube.com/watch?v=7lz7sfOuoB0",
+    "thumbnail_url": "https://i.ytimg.com/vi/7lz7sfOuoB0/hqdefault.jpg?v=69dcdcc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4IqKE-AurwG-wvZEPSpqvJ1rpFQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "76 watching",
+      "76 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "76 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 76,
+    "waiting_count": null,
+    "recency_signal": "76 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 6,
+    "title": "‘You want names? I’ll give you names’: Kash Patel drops Epstein bombshell at explosive House hearing",
+    "url": "https://www.youtube.com/watch?v=ues3VMfPAy8",
+    "thumbnail_url": "https://i.ytimg.com/vi/ues3VMfPAy8/hqdefault.jpg?v=69dcef90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Xp9CzQfsBZK0HuSXh7CkNMTiVg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "19 watching",
+      "19 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "19 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 19,
+    "waiting_count": null,
+    "recency_signal": "19 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -295,21 +295,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/-n6cdfdLfgs/hqdefault.jpg?v=69de80c0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsp3r8SoeiqcM4CwLeZxm1bMueHQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "20 watching",
-      "20 watching"
+      "18 watching",
+      "18 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "20 watching",
+    "viewer_count_text": "18 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 20,
+    "viewer_count": 18,
     "waiting_count": null,
-    "recency_signal": "20 watching | LIVE"
+    "recency_signal": "18 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -319,21 +319,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/v2yJSM1wWtM/hqdefault.jpg?v=69de36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM3PNK_Ci2f88f5bb58kiC6jyQEw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "15 watching",
-      "15 watching"
+      "16 watching",
+      "16 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "15 watching",
+    "viewer_count_text": "16 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 15,
+    "viewer_count": 16,
     "waiting_count": null,
-    "recency_signal": "15 watching | LIVE"
+    "recency_signal": "16 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -341,6 +341,30 @@
     "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
     "url": "https://www.youtube.com/watch?v=XTSjcimJON8",
     "thumbnail_url": "https://i.ytimg.com/vi/XTSjcimJON8/hqdefault.jpg?v=69dcdcd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChGMADLh-MGnpA4PVmBIMVeUErcw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "10 watching",
+      "10 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "10 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 10,
+    "waiting_count": null,
+    "recency_signal": "10 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 2,
+    "title": "'Netanyahu’s IRAN WAR GOALS different from US’: Gabbard drops bombshell at explosive House hearing",
+    "url": "https://www.youtube.com/watch?v=Qj3w2CTEXnk",
+    "thumbnail_url": "https://i.ytimg.com/vi/Qj3w2CTEXnk/hqdefault.jpg?v=69de7d1b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXrc_p655ZPkHzt5HvDSUV9Nt3pQ",
     "badge_text": "LIVE",
     "metadata_texts": [
       "8 watching",
@@ -352,36 +376,12 @@
     "viewer_count_text": "8 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 8,
     "waiting_count": null,
     "recency_signal": "8 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 2,
-    "title": "'Netanyahu’s IRAN WAR GOALS different from US’: Gabbard drops bombshell at explosive House hearing",
-    "url": "https://www.youtube.com/watch?v=Qj3w2CTEXnk",
-    "thumbnail_url": "https://i.ytimg.com/vi/Qj3w2CTEXnk/hqdefault.jpg?v=69de7d1b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXrc_p655ZPkHzt5HvDSUV9Nt3pQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "6 watching",
-      "6 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "6 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 6,
-    "waiting_count": null,
-    "recency_signal": "6 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -391,68 +391,158 @@
     "thumbnail_url": "https://i.ytimg.com/vi/xcj7GxgqF0Y/hqdefault.jpg?v=69de43be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwQrfX-Y2NvG380aWk_1xiE1fmzw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "6 watching",
-      "6 watching"
+      "3 watching",
+      "3 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "6 watching",
+    "viewer_count_text": "3 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 6,
+    "viewer_count": 3,
     "waiting_count": null,
-    "recency_signal": "6 watching | LIVE"
+    "recency_signal": "3 watching | LIVE"
   },
   {
     "channel": "Yahoo Finance",
-    "position": 2,
+    "position": 3,
     "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
     "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "226 watching",
-      "226 watching"
+      "192 watching",
+      "192 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "226 watching",
+    "viewer_count_text": "192 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
+    "collected_at_iso": "2026-04-14T21:49:59+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 226,
+    "viewer_count": 192,
     "waiting_count": null,
-    "recency_signal": "226 watching | LIVE"
+    "recency_signal": "192 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 1,
+    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
+    "url": "https://www.youtube.com/watch?v=7JzjM51PIyE",
+    "thumbnail_url": "https://i.ytimg.com/vi/7JzjM51PIyE/hqdefault.jpg?v=69de6d6a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOCwWXemctTdl8XReYC3iIXVklXg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "28 watching",
+      "28 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "28 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 28,
+    "waiting_count": null,
+    "recency_signal": "28 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 2,
+    "title": "Zee Business Live | Anil Singhvi | Share Market Live Updates | Stock Market News",
+    "url": "https://www.youtube.com/watch?v=JHh2HgJnBZI",
+    "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "9 watching",
+      "9 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "9 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 9,
+    "waiting_count": null,
+    "recency_signal": "9 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 3,
+    "title": "Anil Singhvi LIVE: आज कहां करें इन्वेस्ट | Stock Market Update | Business & Finance | Zee Business",
+    "url": "https://www.youtube.com/watch?v=XozXbA7YUwk",
+    "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "5 watching",
+      "5 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "5 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-14T21:49:58+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 5,
+    "waiting_count": null,
+    "recency_signal": "5 watching | LIVE"
   },
   {
     "channel": "Yahoo Finance",
     "position": 1,
-    "title": "Daily Market Coverage Apr. 14, 2026 3PM-5PM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=r2OWbcT4So4",
-    "thumbnail_url": "https://i.ytimg.com/vi/r2OWbcT4So4/hqdefault.jpg?v=69dd8965&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_8R25ElfqkRw9fpxv4dXgq9PkUg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "68 watching",
-      "68 watching"
-    ],
+    "title": "Daily Market Coverage Apr. 15, 2026 3PM-5PM (ET) | Yahoo Finance",
+    "url": "https://www.youtube.com/watch?v=j78co07B9wg",
+    "thumbnail_url": "https://i.ytimg.com/vi/j78co07B9wg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvxbSW1oDvTJliODl8d82DS77-oQ",
+    "badge_text": "UPCOMING",
+    "metadata_texts": [],
     "overlay_texts": [
-      "LIVE"
+      "Upcoming"
     ],
-    "viewer_count_text": "68 watching",
+    "viewer_count_text": "",
     "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-14T20:51:37+00:00",
+    "scheduled_at_text": "2026-04-15T19:00:00+00:00",
+    "collected_at_iso": "2026-04-14T21:49:59+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "live",
-    "viewer_count": 68,
+    "status": "upcoming",
+    "viewer_count": null,
     "waiting_count": null,
-    "recency_signal": "68 watching | LIVE"
+    "recency_signal": "2026-04-15T19:00:00+00:00 | UPCOMING"
+  },
+  {
+    "channel": "Yahoo Finance",
+    "position": 2,
+    "title": "Daily Market Coverage Apr. 15, 2026 9AM-11AM (ET) | Yahoo Finance",
+    "url": "https://www.youtube.com/watch?v=gVx-lVNba-U",
+    "thumbnail_url": "https://i.ytimg.com/vi/gVx-lVNba-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfLSGNQA78SnfNjK1HOlmGnckbGA",
+    "badge_text": "UPCOMING",
+    "metadata_texts": [],
+    "overlay_texts": [
+      "Upcoming"
+    ],
+    "viewer_count_text": "",
+    "waiting_count_text": "",
+    "scheduled_at_text": "2026-04-15T13:00:00+00:00",
+    "collected_at_iso": "2026-04-14T21:49:59+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "upcoming",
+    "viewer_count": null,
+    "waiting_count": null,
+    "recency_signal": "2026-04-15T13:00:00+00:00 | UPCOMING"
   }
 ]
