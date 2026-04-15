@@ -1,27 +1,75 @@
 [
   {
     "channel": "CNBC-TV18",
+    "position": 3,
+    "title": "🔴Real Madrid vs Bayern Munich LIVE: UEFA Champions League Quarterfinal Match | UCL 2026 LIVE | N18G",
+    "url": "https://www.youtube.com/watch?v=-G1jqG3YxZ8",
+    "thumbnail_url": "https://i.ytimg.com/vi/-G1jqG3YxZ8/hqdefault.jpg?v=69dfaa1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4bKgcVwnDLSMoKbW-a3gv5VR3g",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "548 watching",
+      "548 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "548 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 548,
+    "waiting_count": null,
+    "recency_signal": "548 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 5,
+    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
+    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
+    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "164 watching",
+      "164 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "164 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 164,
+    "waiting_count": null,
+    "recency_signal": "164 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
     "position": 2,
     "title": "🔴Bayern Munich vs Real Madrid LIVE: UEFA Champions League Quarterfinal Match | UCL 2026 LIVE | N18G",
     "url": "https://www.youtube.com/watch?v=wmaoAxeBXMo",
     "thumbnail_url": "https://i.ytimg.com/vi/wmaoAxeBXMo/hqdefault.jpg?v=69dfcf04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsqIcUTs4FXsARLtwQT2thToUUSA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "826 watching",
-      "826 watching"
+      "157 watching",
+      "157 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "826 watching",
+    "viewer_count_text": "157 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 826,
+    "viewer_count": 157,
     "waiting_count": null,
-    "recency_signal": "826 watching | LIVE"
+    "recency_signal": "157 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
@@ -31,117 +79,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/LVwOxr2_hAQ/hqdefault.jpg?v=69dfd48d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVn-oB2Dyd5T2N5Fxwr0J71Sqo_g",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "446 watching",
-      "446 watching"
+      "136 watching",
+      "136 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "446 watching",
+    "viewer_count_text": "136 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 446,
+    "viewer_count": 136,
     "waiting_count": null,
-    "recency_signal": "446 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 7,
-    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
-    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
-    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "170 watching",
-      "170 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "170 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 170,
-    "waiting_count": null,
-    "recency_signal": "170 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "🔴TVK Vijay LIVE: Vijay Rally in Chennai | TVK Vijay Speech LIVE | TN Election 2026| DMK Vs TVK |N18L",
-    "url": "https://www.youtube.com/watch?v=6LqClICV2W0",
-    "thumbnail_url": "https://i.ytimg.com/vi/6LqClICV2W0/hqdefault.jpg?v=69df5e4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzq9iRDgqHVphWSrpWnZcYp7Ib0Q",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "49 watching",
-      "49 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "49 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 49,
-    "waiting_count": null,
-    "recency_signal": "49 watching | LIVE"
+    "recency_signal": "136 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
     "position": 6,
-    "title": "🔴TVK Vijay Speech LIVE: சென்னையில் விஜய்.. | TVK Vijay Rally in Chennai | Vijay Roadshow Today |N18L",
-    "url": "https://www.youtube.com/watch?v=8bvzW_Vm5SI",
-    "thumbnail_url": "https://i.ytimg.com/vi/8bvzW_Vm5SI/hqdefault.jpg?v=69df451b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIww9P1noHvCzDEkC1z0939A8eoQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "39 watching",
-      "39 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "39 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 39,
-    "waiting_count": null,
-    "recency_signal": "39 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 8,
     "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
     "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
     "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "24 watching",
-      "24 watching"
+      "20 watching",
+      "20 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "24 watching",
+    "viewer_count_text": "20 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 24,
+    "viewer_count": 20,
     "waiting_count": null,
-    "recency_signal": "24 watching | LIVE"
+    "recency_signal": "20 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
@@ -151,45 +127,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/H5Q2tBvR2sw/hqdefault.jpg?v=69dfc598&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUriRzfWlKk3YGclvQvGuA3c7ozw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "17 watching",
-      "17 watching"
+      "12 watching",
+      "12 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "17 watching",
+    "viewer_count_text": "12 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 17,
+    "viewer_count": 12,
     "waiting_count": null,
-    "recency_signal": "17 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
-    "title": "🔴Real Madrid vs Bayern Munich LIVE: UEFA Champions League Quarterfinal Match | UCL 2026 LIVE | N18G",
-    "url": "https://www.youtube.com/watch?v=-G1jqG3YxZ8",
-    "thumbnail_url": "https://i.ytimg.com/vi/-G1jqG3YxZ8/hqdefault.jpg?v=69dfaa1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4bKgcVwnDLSMoKbW-a3gv5VR3g",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "1,596 watching",
-      "1.5K watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "1,596 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:31+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 1,
-    "waiting_count": null,
-    "recency_signal": "1,596 watching | LIVE | 1.5K watching"
+    "recency_signal": "12 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -199,21 +151,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/ZnJFgEzN7vg/hqdefault.jpg?v=69de286d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYRrJZLe43FThWFp5oEchkt9-xNw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "440 watching",
-      "440 watching"
+      "265 watching",
+      "265 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "440 watching",
+    "viewer_count_text": "265 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 440,
+    "viewer_count": 265,
     "waiting_count": null,
-    "recency_signal": "440 watching | LIVE"
+    "recency_signal": "265 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -223,21 +175,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/7lz7sfOuoB0/hqdefault.jpg?v=69dcdcc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4IqKE-AurwG-wvZEPSpqvJ1rpFQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "174 watching",
-      "174 watching"
+      "151 watching",
+      "151 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "174 watching",
+    "viewer_count_text": "151 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 174,
+    "viewer_count": 151,
     "waiting_count": null,
-    "recency_signal": "174 watching | LIVE"
+    "recency_signal": "151 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -247,21 +199,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/v2yJSM1wWtM/hqdefault.jpg?v=69de36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM3PNK_Ci2f88f5bb58kiC6jyQEw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "47 watching",
-      "47 watching"
+      "32 watching",
+      "32 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "47 watching",
+    "viewer_count_text": "32 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 47,
+    "viewer_count": 32,
     "waiting_count": null,
-    "recency_signal": "47 watching | LIVE"
+    "recency_signal": "32 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -271,21 +223,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/TcB0FSa85iU/hqdefault.jpg?v=69df7d93&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFdRknnAwh6PN8MhenMpXx0PKRjw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "36 watching",
-      "36 watching"
+      "22 watching",
+      "22 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "36 watching",
+    "viewer_count_text": "22 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 36,
+    "viewer_count": 22,
     "waiting_count": null,
-    "recency_signal": "36 watching | LIVE"
+    "recency_signal": "22 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 1,
+    "title": "LIVE | Explosive clash erupts as US lawmakers grill Chris Wright over Trump's 2027 budget proposal",
+    "url": "https://www.youtube.com/watch?v=ffPLInCE194",
+    "thumbnail_url": "https://i.ytimg.com/vi/ffPLInCE194/hqdefault.jpg?v=69dfe9b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvPmXyfQhrHIPe8e1GNw1ddHhoPQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "15 watching",
+      "15 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "15 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 15,
+    "waiting_count": null,
+    "recency_signal": "15 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -293,30 +269,6 @@
     "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
     "url": "https://www.youtube.com/watch?v=znvHypCaXV4",
     "thumbnail_url": "https://i.ytimg.com/vi/znvHypCaXV4/hqdefault.jpg?v=69df881b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQDUVKJXpNbSJ-IldGZa11-6ibnw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "18 watching",
-      "18 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "18 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 18,
-    "waiting_count": null,
-    "recency_signal": "18 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 10,
-    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
-    "url": "https://www.youtube.com/watch?v=XTSjcimJON8",
-    "thumbnail_url": "https://i.ytimg.com/vi/XTSjcimJON8/hqdefault.jpg?v=69dcdcd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChGMADLh-MGnpA4PVmBIMVeUErcw",
     "badge_text": "LIVE",
     "metadata_texts": [
       "9 watching",
@@ -328,7 +280,7 @@
     "viewer_count_text": "9 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 9,
@@ -337,58 +289,58 @@
   },
   {
     "channel": "The Economic Times",
-    "position": 1,
+    "position": 10,
+    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
+    "url": "https://www.youtube.com/watch?v=XTSjcimJON8",
+    "thumbnail_url": "https://i.ytimg.com/vi/XTSjcimJON8/hqdefault.jpg?v=69dcdcd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChGMADLh-MGnpA4PVmBIMVeUErcw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "7 watching",
+      "7 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "7 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 7,
+    "waiting_count": null,
+    "recency_signal": "7 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 2,
     "title": "Karoline Leavitt LIVE | White House press secy briefing media as Trump makes shocking claim on Iran",
     "url": "https://www.youtube.com/watch?v=Uvic-Zf5Q0U",
     "thumbnail_url": "https://i.ytimg.com/vi/Uvic-Zf5Q0U/hqdefault.jpg?v=69dfc521&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYyQy_AvIGeD9iS70Sz_rwwg_srg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "6 watching",
-      "6 watching"
+      "3 watching",
+      "3 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "6 watching",
+    "viewer_count_text": "3 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 6,
+    "viewer_count": 3,
     "waiting_count": null,
-    "recency_signal": "6 watching | LIVE"
+    "recency_signal": "3 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
-    "position": 2,
+    "position": 3,
     "title": "LIVE: OMB Director Vought DEFENDS Trump's 2027 budget as Democrats rip POTUS' economic strategy",
     "url": "https://www.youtube.com/watch?v=YYXgFtGzTmM",
     "thumbnail_url": "https://i.ytimg.com/vi/YYXgFtGzTmM/hqdefault.jpg?v=69df9e9e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhGyAnRokPolLQzkjMStX3Er56mg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "5 watching",
-      "5 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "5 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 5,
-    "waiting_count": null,
-    "recency_signal": "5 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 4,
-    "title": "LIVE |'Who is in the pocket of who?': Massie calls out anti-second amendment lobby at Senate hearing",
-    "url": "https://www.youtube.com/watch?v=vVrPQsqai6g",
-    "thumbnail_url": "https://i.ytimg.com/vi/vVrPQsqai6g/hqdefault.jpg?v=69df9b99&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_EsyJ0S1R2mMCChcNdw1GEmybug",
     "badge_text": "LIVE",
     "metadata_texts": [
       "2 watching",
@@ -400,7 +352,7 @@
     "viewer_count_text": "2 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 2,
@@ -409,24 +361,75 @@
   },
   {
     "channel": "The Economic Times",
-    "position": 3,
+    "position": 4,
     "title": "LIVE | US Ambassador to UN Mike Waltz testifies on Iran war, explosive clash rocks Senate hearing",
     "url": "https://www.youtube.com/watch?v=igBH6qOXSfc",
     "thumbnail_url": "https://i.ytimg.com/vi/igBH6qOXSfc/hqdefault.jpg?v=69df9ce9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByPxlluvIFNCg04GWC6dEPFBUZjQ",
     "badge_text": "LIVE",
-    "metadata_texts": [],
+    "metadata_texts": [
+      "2 watching",
+      "2 watching"
+    ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "",
+    "viewer_count_text": "2 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": null,
+    "viewer_count": 2,
     "waiting_count": null,
-    "recency_signal": "LIVE"
+    "recency_signal": "2 watching | LIVE"
+  },
+  {
+    "channel": "Yahoo Finance",
+    "position": 2,
+    "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
+    "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
+    "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "241 watching",
+      "241 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "241 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "live",
+    "viewer_count": 241,
+    "waiting_count": null,
+    "recency_signal": "241 watching | LIVE"
+  },
+  {
+    "channel": "Yahoo Finance",
+    "position": 1,
+    "title": "LIVE: S&P, Nasdaq rise to record highs as Iran war tensions ease slightly | Apr. 15, 2026",
+    "url": "https://www.youtube.com/watch?v=j78co07B9wg",
+    "thumbnail_url": "https://i.ytimg.com/vi/j78co07B9wg/hqdefault.jpg?v=69dea9a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvxbSW1oDvTJliODl8d82DS77-oQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "90 watching",
+      "90 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "90 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-15T20:44:09+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "live",
+    "viewer_count": 90,
+    "waiting_count": null,
+    "recency_signal": "90 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -436,21 +439,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/L6dFqwZUzPM/hqdefault.jpg?v=69dfc22c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRQoelrOA7mCeA9yggb4X4PvhJdQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "59 watching",
-      "59 watching"
+      "31 watching",
+      "31 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "59 watching",
+    "viewer_count_text": "31 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 59,
+    "viewer_count": 31,
     "waiting_count": null,
-    "recency_signal": "59 watching | LIVE"
+    "recency_signal": "31 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -460,21 +463,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "43 watching",
-      "43 watching"
+      "29 watching",
+      "29 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "43 watching",
+    "viewer_count_text": "29 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 43,
+    "viewer_count": 29,
     "waiting_count": null,
-    "recency_signal": "43 watching | LIVE"
+    "recency_signal": "29 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -484,20 +487,20 @@
     "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "16 watching",
-      "16 watching"
+      "11 watching",
+      "11 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "16 watching",
+    "viewer_count_text": "11 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-15T19:13:32+00:00",
+    "collected_at_iso": "2026-04-15T20:44:08+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 16,
+    "viewer_count": 11,
     "waiting_count": null,
-    "recency_signal": "16 watching | LIVE"
+    "recency_signal": "11 watching | LIVE"
   }
 ]
