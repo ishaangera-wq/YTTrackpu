@@ -1,322 +1,370 @@
 [
   {
     "channel": "CNBC-TV18",
-    "position": 4,
-    "title": "🔴TVK Vijay Speech LIVE: TVK Election Manifesto Release | தவெக தேர்தல் அறிக்கை வெளியீடு | DMK | N18L",
-    "url": "https://www.youtube.com/watch?v=L86UriokUC0",
-    "thumbnail_url": "https://i.ytimg.com/vi/L86UriokUC0/hqdefault.jpg?v=69e0abe5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0YapQc-EOjETs6fEYHxC4kVbrkg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "259 watching",
-      "259 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "259 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 259,
-    "waiting_count": null,
-    "recency_signal": "259 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
-    "title": "LIVE: Vijay Unveils TVK's Manifesto in Chennai | TVK Vijay Speech | Tamil Nadu Elections 2026 | N18L",
-    "url": "https://www.youtube.com/watch?v=Ae7rcKqNhoI",
-    "thumbnail_url": "https://i.ytimg.com/vi/Ae7rcKqNhoI/hqdefault.jpg?v=69e0afe8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKgey8BAIa2ccdzT-EJ8TC9SgswA",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "173 watching",
-      "173 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "173 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 173,
-    "waiting_count": null,
-    "recency_signal": "173 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 7,
+    "position": 8,
     "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
     "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
     "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "154 watching",
-      "154 watching"
+      "179 watching",
+      "179 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "154 watching",
+    "viewer_count_text": "179 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 154,
+    "viewer_count": 179,
     "waiting_count": null,
-    "recency_signal": "154 watching | LIVE"
+    "recency_signal": "179 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
     "position": 6,
+    "title": "🔴TVK Vijay Speech LIVE: TVK Election Manifesto Release | தவெக தேர்தல் அறிக்கை வெளியீடு | DMK | N18L",
+    "url": "https://www.youtube.com/watch?v=L86UriokUC0",
+    "thumbnail_url": "https://i.ytimg.com/vi/L86UriokUC0/hqdefault.jpg?v=69e0abe5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0YapQc-EOjETs6fEYHxC4kVbrkg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "107 watching",
+      "107 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "107 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 107,
+    "waiting_count": null,
+    "recency_signal": "107 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 5,
+    "title": "LIVE: Vijay Unveils TVK's Manifesto in Chennai | TVK Vijay Speech | Tamil Nadu Elections 2026 | N18L",
+    "url": "https://www.youtube.com/watch?v=Ae7rcKqNhoI",
+    "thumbnail_url": "https://i.ytimg.com/vi/Ae7rcKqNhoI/hqdefault.jpg?v=69e0afe8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKgey8BAIa2ccdzT-EJ8TC9SgswA",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "96 watching",
+      "96 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "96 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 96,
+    "waiting_count": null,
+    "recency_signal": "96 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 3,
+    "title": "LIVE | Tracking Latest Stock Market Headlines & Top Developments | India Business Hour | Top News",
+    "url": "https://www.youtube.com/watch?v=jhzXgkHe7WA",
+    "thumbnail_url": "https://i.ytimg.com/vi/jhzXgkHe7WA/hqdefault.jpg?v=69e0dfe8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALHm-4YGCdefLNGsdWdKfvnpqVQg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "71 watching",
+      "71 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "71 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 71,
+    "waiting_count": null,
+    "recency_signal": "71 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 7,
     "title": "Stock Market LIVE Updates: Iran Ceasefire Deal | Crude Oil Prices | Nifty & Sensex | April 16| Trump",
     "url": "https://www.youtube.com/watch?v=MH2_P_TT8eA",
     "thumbnail_url": "https://i.ytimg.com/vi/MH2_P_TT8eA/hqdefault.jpg?v=69e04020&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWfmaR9ty-DjO5dPiSEeBF75uPBg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "140 watching",
-      "140 watching"
+      "62 watching",
+      "62 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "140 watching",
+    "viewer_count_text": "62 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 140,
+    "viewer_count": 62,
     "waiting_count": null,
-    "recency_signal": "140 watching | LIVE"
+    "recency_signal": "62 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 8,
+    "position": 9,
     "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
     "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
     "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "57 watching",
-      "57 watching"
+      "49 watching",
+      "49 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "57 watching",
+    "viewer_count_text": "49 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 57,
+    "viewer_count": 49,
     "waiting_count": null,
-    "recency_signal": "57 watching | LIVE"
+    "recency_signal": "49 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
     "position": 2,
-    "title": "Pentagon Briefing LIVE | Pete Hegseth, Dan Caine Speak On U.S Navy & Hormuz Blockade | Iran War|N18G",
-    "url": "https://www.youtube.com/watch?v=qWEC3CfBqaU",
-    "thumbnail_url": "https://i.ytimg.com/vi/qWEC3CfBqaU/hqdefault.jpg?v=69e0b7bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnbcN2SrNREgWWFtUQw9Nq_RJlUw",
+    "title": "LIVE: Pope Leo Holds Holy Mass at Bamenda International Airport, Addresses ‘Meeting for Peace’ |N18G",
+    "url": "https://www.youtube.com/watch?v=ObMLPkDm0HI",
+    "thumbnail_url": "https://i.ytimg.com/vi/ObMLPkDm0HI/hqdefault.jpg?v=69e0efcd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3Ki6y0uSinsmRVI1uZjMA_fAoVQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "23 watching",
-      "23 watching"
+      "35 watching",
+      "35 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "23 watching",
+    "viewer_count_text": "35 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 23,
+    "viewer_count": 35,
     "waiting_count": null,
-    "recency_signal": "23 watching | LIVE"
+    "recency_signal": "35 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "Parliament Session LIVE: Lok Sabha Debates On Women’s Reservation Bill | Delimitation Bill | N18L",
-    "url": "https://www.youtube.com/watch?v=LAMdiU8rFKs",
-    "thumbnail_url": "https://i.ytimg.com/vi/LAMdiU8rFKs/hqdefault.jpg?v=69e092a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKqyuuRBbMQIIhIlRkZMcV3EXfqQ",
+    "position": 4,
+    "title": "USA LIVE: RFK Jr. Testifies on Health Care Agenda, Grilled on Trump Administration Policies | N18G",
+    "url": "https://www.youtube.com/watch?v=ezHTM62VGcE",
+    "thumbnail_url": "https://i.ytimg.com/vi/ezHTM62VGcE/hqdefault.jpg?v=69e0ddcb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCTtZf6PjQKyNa0VfFFL-6hUGTpQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "20 watching",
-      "20 watching"
+      "17 watching",
+      "17 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "20 watching",
+    "viewer_count_text": "17 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 20,
+    "viewer_count": 17,
     "waiting_count": null,
-    "recency_signal": "20 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "US Defence Secretary Pete Hegseth Holds Pentagon Briefing With Joint Chiefs Chairman | N18L",
-    "url": "https://www.youtube.com/watch?v=Ju8ipJ9GGzs",
-    "thumbnail_url": "https://i.ytimg.com/vi/Ju8ipJ9GGzs/hqdefault.jpg?v=69e0ce1b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ1TdOCtCKksvd3gk68bqS3WGmnA",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "11 watching",
-      "11 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "11 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 11,
-    "waiting_count": null,
-    "recency_signal": "11 watching | LIVE"
+    "recency_signal": "17 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
-    "position": 5,
+    "position": 6,
     "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
     "url": "https://www.youtube.com/watch?v=ZnJFgEzN7vg",
     "thumbnail_url": "https://i.ytimg.com/vi/ZnJFgEzN7vg/hqdefault.jpg?v=69de286d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYRrJZLe43FThWFp5oEchkt9-xNw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "61 watching",
-      "61 watching"
+      "229 watching",
+      "229 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "61 watching",
+    "viewer_count_text": "229 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 61,
+    "viewer_count": 229,
     "waiting_count": null,
-    "recency_signal": "61 watching | LIVE"
+    "recency_signal": "229 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
-    "position": 6,
+    "position": 7,
     "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
     "url": "https://www.youtube.com/watch?v=7lz7sfOuoB0",
     "thumbnail_url": "https://i.ytimg.com/vi/7lz7sfOuoB0/hqdefault.jpg?v=69dcdcc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4IqKE-AurwG-wvZEPSpqvJ1rpFQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "47 watching",
-      "47 watching"
+      "105 watching",
+      "105 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "47 watching",
+    "viewer_count_text": "105 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 47,
+    "viewer_count": 105,
     "waiting_count": null,
-    "recency_signal": "47 watching | LIVE"
+    "recency_signal": "105 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
-    "position": 4,
-    "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota EXPOSED at fiery Senate hearing",
-    "url": "https://www.youtube.com/watch?v=v2yJSM1wWtM",
-    "thumbnail_url": "https://i.ytimg.com/vi/v2yJSM1wWtM/hqdefault.jpg?v=69de36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM3PNK_Ci2f88f5bb58kiC6jyQEw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "15 watching",
-      "15 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "15 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 15,
-    "waiting_count": null,
-    "recency_signal": "15 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 7,
+    "position": 8,
     "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
     "url": "https://www.youtube.com/watch?v=XTSjcimJON8",
     "thumbnail_url": "https://i.ytimg.com/vi/XTSjcimJON8/hqdefault.jpg?v=69dcdcd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChGMADLh-MGnpA4PVmBIMVeUErcw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "15 watching",
-      "15 watching"
+      "31 watching",
+      "31 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "15 watching",
+    "viewer_count_text": "31 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 15,
+    "viewer_count": 31,
     "waiting_count": null,
-    "recency_signal": "15 watching | LIVE"
+    "recency_signal": "31 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
-    "position": 2,
+    "position": 5,
+    "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota EXPOSED at fiery Senate hearing",
+    "url": "https://www.youtube.com/watch?v=v2yJSM1wWtM",
+    "thumbnail_url": "https://i.ytimg.com/vi/v2yJSM1wWtM/hqdefault.jpg?v=69de36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM3PNK_Ci2f88f5bb58kiC6jyQEw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "24 watching",
+      "24 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "24 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 24,
+    "waiting_count": null,
+    "recency_signal": "24 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 3,
+    "title": "LIVE | RFK Jr clashes with lawmakers in fiery House showdown over HHS policies and 2027 budget draft",
+    "url": "https://www.youtube.com/watch?v=fhNJAeUDGa0",
+    "thumbnail_url": "https://i.ytimg.com/vi/fhNJAeUDGa0/hqdefault.jpg?v=69e0e184&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Zt2v8Ndhovh8gCZfk_I1kBcXyQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "9 watching",
+      "9 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "9 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 9,
+    "waiting_count": null,
+    "recency_signal": "9 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 1,
+    "title": "LIVE: Iran war shadows army budget hearing in USA, lawmakers demand answers from Pentagon officials",
+    "url": "https://www.youtube.com/watch?v=gn6MUXVuG2Y",
+    "thumbnail_url": "https://i.ytimg.com/vi/gn6MUXVuG2Y/hqdefault.jpg?v=69e0ebd0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOBT4RAra5fl4fbMyb-hz7Op2jIQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "8 watching",
+      "8 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "8 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 8,
+    "waiting_count": null,
+    "recency_signal": "8 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 4,
     "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
     "url": "https://www.youtube.com/watch?v=znvHypCaXV4",
     "thumbnail_url": "https://i.ytimg.com/vi/znvHypCaXV4/hqdefault.jpg?v=69df881b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQDUVKJXpNbSJ-IldGZa11-6ibnw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "5 watching",
-      "5 watching"
+      "8 watching",
+      "8 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "5 watching",
+    "viewer_count_text": "8 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 5,
+    "viewer_count": 8,
     "waiting_count": null,
-    "recency_signal": "5 watching | LIVE"
+    "recency_signal": "8 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
-    "position": 3,
-    "title": "Kash Patel drops Epstein bombshell at explosive House hearing: ‘You want names? I’ll give you names’",
-    "url": "https://www.youtube.com/watch?v=TcB0FSa85iU",
-    "thumbnail_url": "https://i.ytimg.com/vi/TcB0FSa85iU/hqdefault.jpg?v=69df7d93&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFdRknnAwh6PN8MhenMpXx0PKRjw",
+    "position": 2,
+    "title": "LIVE: ICE, Border Patrol officials GRILLED over Homeland Security budget | House hearing",
+    "url": "https://www.youtube.com/watch?v=rP21bWB4IBc",
+    "thumbnail_url": "https://i.ytimg.com/vi/rP21bWB4IBc/hqdefault.jpg?v=69e0e76c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcbxlQGwOWbrLcdePHC_zLKrGMgA",
     "badge_text": "LIVE",
     "metadata_texts": [
       "3 watching",
@@ -328,12 +376,36 @@
     "viewer_count_text": "3 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 3,
     "waiting_count": null,
     "recency_signal": "3 watching | LIVE"
+  },
+  {
+    "channel": "Yahoo Finance",
+    "position": 2,
+    "title": "Daily Market Coverage Apr. 16, 2026 9AM-11AM (ET) | Yahoo Finance",
+    "url": "https://www.youtube.com/watch?v=J5garfXI2F0",
+    "thumbnail_url": "https://i.ytimg.com/vi/J5garfXI2F0/hqdefault.jpg?v=69dffb57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByu3ZRFXLMBZAyMGX7v-PWdqzNg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "343 watching",
+      "343 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "343 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "live",
+    "viewer_count": 343,
+    "waiting_count": null,
+    "recency_signal": "343 watching | LIVE"
   },
   {
     "channel": "Yahoo Finance",
@@ -343,45 +415,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "121 watching",
-      "121 watching"
+      "291 watching",
+      "291 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "121 watching",
+    "viewer_count_text": "291 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:05+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 121,
+    "viewer_count": 291,
     "waiting_count": null,
-    "recency_signal": "121 watching | LIVE"
-  },
-  {
-    "channel": "Zee Business",
-    "position": 4,
-    "title": "Anil Singhvi LIVE: आज कहां करें इन्वेस्ट | Stock Market Update | Business & Finance | Zee Business",
-    "url": "https://www.youtube.com/watch?v=XozXbA7YUwk",
-    "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "469 watching",
-      "469 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "469 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
-    "status": "live",
-    "viewer_count": 469,
-    "waiting_count": null,
-    "recency_signal": "469 watching | LIVE"
+    "recency_signal": "291 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -391,21 +439,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/4mIa5NY098U/hqdefault.jpg?v=69e0cb36&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1ROg7GLW6R7QA5E1VCUNfKaZ_aA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "223 watching",
-      "223 watching"
+      "486 watching",
+      "486 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "223 watching",
+    "viewer_count_text": "486 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 223,
+    "viewer_count": 486,
     "waiting_count": null,
-    "recency_signal": "223 watching | LIVE"
+    "recency_signal": "486 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -415,52 +463,76 @@
     "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "159 watching",
-      "159 watching"
+      "89 watching",
+      "89 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "159 watching",
+    "viewer_count_text": "89 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 159,
+    "viewer_count": 89,
     "waiting_count": null,
-    "recency_signal": "159 watching | LIVE"
+    "recency_signal": "89 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 4,
+    "title": "Anil Singhvi LIVE: आज कहां करें इन्वेस्ट | Stock Market Update | Business & Finance | Zee Business",
+    "url": "https://www.youtube.com/watch?v=XozXbA7YUwk",
+    "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "72 watching",
+      "72 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "72 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 72,
+    "waiting_count": null,
+    "recency_signal": "72 watching | LIVE"
   },
   {
     "channel": "Zee Business",
     "position": 1,
-    "title": "From Past to Present: B V Mehta on 50 Years of India’s Oil Industry Evolution | Commodity Live",
-    "url": "https://www.youtube.com/watch?v=6rvWnYPQbRo",
-    "thumbnail_url": "https://i.ytimg.com/vi/6rvWnYPQbRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjiysTby5TRYCEOrO09fijGCXVDg",
+    "title": "Minimum Wage Debate: Why Workers Still Struggle | India’s Wage Gap Explained |INDIA 360",
+    "url": "https://www.youtube.com/watch?v=JEnr-uerMPQ",
+    "thumbnail_url": "https://i.ytimg.com/vi/JEnr-uerMPQ/hqdefault.jpg?v=69e0f2df&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsD2711SnzaVDlQHYSOb1-eQMXMQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "20 watching",
-      "20 watching"
+      "24 watching",
+      "24 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "20 watching",
+    "viewer_count_text": "24 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 20,
+    "viewer_count": 24,
     "waiting_count": null,
-    "recency_signal": "20 watching | LIVE"
+    "recency_signal": "24 watching | LIVE"
   },
   {
-    "channel": "The Economic Times",
+    "channel": "CNBC-TV18",
     "position": 1,
-    "title": "LIVE: ‘Ceasefire with Iran to extend… but on Trump’s terms?’ Hegseth’s bombshell statement on War",
-    "url": "https://www.youtube.com/watch?v=GSYyd_vk1Ls",
-    "thumbnail_url": "https://i.ytimg.com/vi/GSYyd_vk1Ls/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3iJBRdX6aPjc5M_mSQXFis2rWwQ",
+    "title": "WATCH LIVE: NASA's Artemis II News Conference with Moon Astronauts | NASA Artemis II Crew | N18G",
+    "url": "https://www.youtube.com/watch?v=mTvHsNNhEtE",
+    "thumbnail_url": "https://i.ytimg.com/vi/mTvHsNNhEtE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHRXfwGtFpFrsxSqgzyGRci8NCQg",
     "badge_text": "UPCOMING",
     "metadata_texts": [],
     "overlay_texts": [
@@ -468,13 +540,13 @@
     ],
     "viewer_count_text": "",
     "waiting_count_text": "",
-    "scheduled_at_text": "2026-04-16T12:05:55+00:00",
-    "collected_at_iso": "2026-04-16T12:06:04+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "scheduled_at_text": "2026-04-16T18:30:00+00:00",
+    "collected_at_iso": "2026-04-16T14:54:00+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "upcoming",
     "viewer_count": null,
     "waiting_count": null,
-    "recency_signal": "2026-04-16T12:05:55+00:00 | UPCOMING"
+    "recency_signal": "2026-04-16T18:30:00+00:00 | UPCOMING"
   },
   {
     "channel": "Yahoo Finance",
@@ -490,32 +562,11 @@
     "viewer_count_text": "",
     "waiting_count_text": "",
     "scheduled_at_text": "2026-04-16T19:00:00+00:00",
-    "collected_at_iso": "2026-04-16T12:06:05+00:00",
+    "collected_at_iso": "2026-04-16T14:54:01+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
     "waiting_count": null,
     "recency_signal": "2026-04-16T19:00:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 2,
-    "title": "Daily Market Coverage Apr. 16, 2026 9AM-11AM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=J5garfXI2F0",
-    "thumbnail_url": "https://i.ytimg.com/vi/J5garfXI2F0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByu3ZRFXLMBZAyMGX7v-PWdqzNg",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "",
-    "scheduled_at_text": "2026-04-16T13:00:00+00:00",
-    "collected_at_iso": "2026-04-16T12:06:05+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": null,
-    "recency_signal": "2026-04-16T13:00:00+00:00 | UPCOMING"
   }
 ]
