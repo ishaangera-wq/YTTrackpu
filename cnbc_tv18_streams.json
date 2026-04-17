@@ -1,315 +1,51 @@
 [
   {
-    "channel": "CNBC-TV18",
-    "position": 2,
-    "title": "LIVE: Pope Leo XIV Meets with University Students and Professors at the Catholic University | N18G",
-    "url": "https://www.youtube.com/watch?v=c5i6MKjoQls",
-    "thumbnail_url": "https://i.ytimg.com/vi/c5i6MKjoQls/hqdefault.jpg?v=69e24fa3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhc2Pzv5gskEYseAOXxhvph5L9sQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "173 watching",
-      "173 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "173 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 173,
-    "waiting_count": null,
-    "recency_signal": "173 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 4,
-    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
-    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
-    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "147 watching",
-      "147 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "147 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 147,
-    "waiting_count": null,
-    "recency_signal": "147 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
-    "title": "Lok Sabha LIVE Voting On Delimitation & Women's Quota Bill | Amit Shah Speaks In Lok Sabha | N18L",
-    "url": "https://www.youtube.com/watch?v=awCL6TSXjfw",
-    "thumbnail_url": "https://i.ytimg.com/vi/awCL6TSXjfw/hqdefault.jpg?v=69e22b0f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjgClOC_li-M4DKJ-rSDWI6ohzzQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "22 watching",
-      "22 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "22 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 22,
-    "waiting_count": null,
-    "recency_signal": "22 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
-    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
-    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "17 watching",
-      "17 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "17 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 17,
-    "waiting_count": null,
-    "recency_signal": "17 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 8,
-    "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
-    "url": "https://www.youtube.com/watch?v=7lz7sfOuoB0",
-    "thumbnail_url": "https://i.ytimg.com/vi/7lz7sfOuoB0/hqdefault.jpg?v=69dcdcc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4IqKE-AurwG-wvZEPSpqvJ1rpFQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "867 watching",
-      "867 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "867 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 867,
-    "waiting_count": null,
-    "recency_signal": "867 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 5,
-    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
-    "url": "https://www.youtube.com/watch?v=iQV4Eaultr4",
-    "thumbnail_url": "https://i.ytimg.com/vi/iQV4Eaultr4/hqdefault.jpg?v=69e226e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1TdXPtWuZiDo-hDLhGFayW2oBmw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "303 watching",
-      "303 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "303 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 303,
-    "waiting_count": null,
-    "recency_signal": "303 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 7,
-    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
-    "url": "https://www.youtube.com/watch?v=ZnJFgEzN7vg",
-    "thumbnail_url": "https://i.ytimg.com/vi/ZnJFgEzN7vg/hqdefault.jpg?v=69de286d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYRrJZLe43FThWFp5oEchkt9-xNw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "171 watching",
-      "171 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "171 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 171,
-    "waiting_count": null,
-    "recency_signal": "171 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 4,
-    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
-    "url": "https://www.youtube.com/watch?v=WQoYGrjxPBw",
-    "thumbnail_url": "https://i.ytimg.com/vi/WQoYGrjxPBw/hqdefault.jpg?v=69e23bab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlSBEdt-w5wp0x9h4f7_ZxaWOu5w",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "28 watching",
-      "28 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "28 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 28,
-    "waiting_count": null,
-    "recency_signal": "28 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 6,
-    "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota EXPOSED at fiery Senate hearing",
-    "url": "https://www.youtube.com/watch?v=v2yJSM1wWtM",
-    "thumbnail_url": "https://i.ytimg.com/vi/v2yJSM1wWtM/hqdefault.jpg?v=69de36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM3PNK_Ci2f88f5bb58kiC6jyQEw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "16 watching",
-      "16 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "16 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 16,
-    "waiting_count": null,
-    "recency_signal": "16 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 3,
-    "title": "'This charade…': Democrats walk out after clash with GOP Senators at explosive ICE hearing",
-    "url": "https://www.youtube.com/watch?v=eieOYUNZFWo",
-    "thumbnail_url": "https://i.ytimg.com/vi/eieOYUNZFWo/hqdefault.jpg?v=69e264c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4fZCT0s4w78NbCnTUHUYS0YU_gg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "12 watching",
-      "12 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "12 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 12,
-    "waiting_count": null,
-    "recency_signal": "12 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 2,
-    "title": "‘You were paid to protect us, yet…’: Senators blast telcos for sharing phone records with Jack Smith",
-    "url": "https://www.youtube.com/watch?v=Zmj7btZ4nV8",
-    "thumbnail_url": "https://i.ytimg.com/vi/Zmj7btZ4nV8/hqdefault.jpg?v=69e26c75&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfnXHKLJhOwSsva2v1zul30mS-5Q",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "8 watching",
-      "8 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "8 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 8,
-    "waiting_count": null,
-    "recency_signal": "8 watching | LIVE"
-  },
-  {
     "channel": "Yahoo Finance",
-    "position": 2,
+    "position": 3,
     "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
     "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "258 watching",
-      "258 watching"
+      "214 watching",
+      "214 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "258 watching",
+    "viewer_count_text": "214 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:07+00:00",
+    "collected_at_iso": "2026-04-17T19:59:07+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 258,
+    "viewer_count": 214,
     "waiting_count": null,
-    "recency_signal": "258 watching | LIVE"
+    "recency_signal": "214 watching | LIVE"
   },
   {
-    "channel": "Zee Business",
-    "position": 1,
-    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
-    "url": "https://www.youtube.com/watch?v=3JPwoBm2jhc",
-    "thumbnail_url": "https://i.ytimg.com/vi/3JPwoBm2jhc/hqdefault.jpg?v=69e2661f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy3HdcXwrKS8TdqEmg-zl99TR8gg",
+    "channel": "Yahoo Finance",
+    "position": 2,
+    "title": "LIVE: Stocks surge as Iran says Strait of Hormuz 'completely open' | Apr. 17, 2026",
+    "url": "https://www.youtube.com/watch?v=cSikWG7S96s",
+    "thumbnail_url": "https://i.ytimg.com/vi/cSikWG7S96s/hqdefault.jpg?v=69e176ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-i-Ta33bEWgNb6qNVpoNvRB2C3Q",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "58 watching",
-      "58 watching"
+      "133 watching",
+      "133 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "58 watching",
+    "viewer_count_text": "133 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "collected_at_iso": "2026-04-17T19:59:07+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 58,
+    "viewer_count": 133,
     "waiting_count": null,
-    "recency_signal": "58 watching | LIVE"
+    "recency_signal": "133 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -319,21 +55,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "37 watching",
-      "37 watching"
+      "32 watching",
+      "32 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "37 watching",
+    "viewer_count_text": "32 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
+    "collected_at_iso": "2026-04-17T19:58:58+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 37,
+    "viewer_count": 32,
     "waiting_count": null,
-    "recency_signal": "37 watching | LIVE"
+    "recency_signal": "32 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 1,
+    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
+    "url": "https://www.youtube.com/watch?v=3JPwoBm2jhc",
+    "thumbnail_url": "https://i.ytimg.com/vi/3JPwoBm2jhc/hqdefault.jpg?v=69e2661f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy3HdcXwrKS8TdqEmg-zl99TR8gg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "23 watching",
+      "23 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "23 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-04-17T19:58:58+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 23,
+    "waiting_count": null,
+    "recency_signal": "23 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -343,52 +103,28 @@
     "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "22 watching",
-      "22 watching"
+      "19 watching",
+      "19 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "22 watching",
+    "viewer_count_text": "19 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
+    "collected_at_iso": "2026-04-17T19:58:58+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 22,
+    "viewer_count": 19,
     "waiting_count": null,
-    "recency_signal": "22 watching | LIVE"
+    "recency_signal": "19 watching | LIVE"
   },
   {
-    "channel": "CNBC-TV18",
+    "channel": "Yahoo Finance",
     "position": 1,
-    "title": "Donald Trump At Turning Point LIVE: Trump On Iran War, Pope Leo & Charlie Kirk | Midterm Polls |N18G",
-    "url": "https://www.youtube.com/watch?v=EAfbedeHHnA",
-    "thumbnail_url": "https://i.ytimg.com/vi/EAfbedeHHnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYb_QY_nB2k8KpEUSCkEqXybaJmg",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [
-      "3 waiting",
-      "3 waiting"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "3 waiting",
-    "scheduled_at_text": "2026-04-17T20:45:00+00:00",
-    "collected_at_iso": "2026-04-17T18:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 3,
-    "recency_signal": "3 waiting | 2026-04-17T20:45:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 1,
-    "title": "LIVE | Tyler Robinson appears in Utah court in Charlie Kirk assassination case",
-    "url": "https://www.youtube.com/watch?v=vnyboCB5Z84",
-    "thumbnail_url": "https://i.ytimg.com/vi/vnyboCB5Z84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFHrubtK1vBfo_EKoxK0yh0H865w",
+    "title": "LIVE: The Daily Wolf with Scott Melker",
+    "url": "https://www.youtube.com/watch?v=X6PHZ0joLYk",
+    "thumbnail_url": "https://i.ytimg.com/vi/X6PHZ0joLYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH36qukG36vlUH1QBNjaS8ilYsnw",
     "badge_text": "UPCOMING",
     "metadata_texts": [],
     "overlay_texts": [
@@ -396,36 +132,12 @@
     ],
     "viewer_count_text": "",
     "waiting_count_text": "",
-    "scheduled_at_text": "2026-04-17T18:39:51+00:00",
-    "collected_at_iso": "2026-04-17T18:57:06+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": null,
-    "recency_signal": "2026-04-17T18:39:51+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 1,
-    "title": "Daily Market Coverage Apr. 17, 2026 3PM-5PM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=cSikWG7S96s",
-    "thumbnail_url": "https://i.ytimg.com/vi/cSikWG7S96s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-i-Ta33bEWgNb6qNVpoNvRB2C3Q",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [
-      "6 waiting",
-      "6 waiting"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "6 waiting",
-    "scheduled_at_text": "2026-04-17T19:00:00+00:00",
-    "collected_at_iso": "2026-04-17T18:57:07+00:00",
+    "scheduled_at_text": "2026-04-20T16:00:00+00:00",
+    "collected_at_iso": "2026-04-17T19:59:07+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
-    "waiting_count": 6,
-    "recency_signal": "6 waiting | 2026-04-17T19:00:00+00:00 | UPCOMING"
+    "waiting_count": null,
+    "recency_signal": "2026-04-20T16:00:00+00:00 | UPCOMING"
   }
 ]
