@@ -1,5 +1,125 @@
 [
   {
+    "channel": "CNBC-TV18",
+    "position": 4,
+    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
+    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
+    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "79 watching",
+      "79 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "79 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:12+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 79,
+    "waiting_count": null,
+    "recency_signal": "79 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 2,
+    "title": "LIVE | Tracking Latest Stock Market Headlines & Top Developments | India Business Hour | Top News",
+    "url": "https://www.youtube.com/watch?v=aiS_ihNmh_E",
+    "thumbnail_url": "https://i.ytimg.com/vi/aiS_ihNmh_E/hqdefault.jpg?v=69f49595&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUCaAlh0s35lbgIvmSp_ZzYyRDng",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "60 watching",
+      "60 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "60 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:12+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 60,
+    "waiting_count": null,
+    "recency_signal": "60 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 5,
+    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
+    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
+    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "41 watching",
+      "41 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "41 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:12+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 41,
+    "waiting_count": null,
+    "recency_signal": "41 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 1,
+    "title": "Donald Trump LIVE: US President LOOSES HIS COOL On NATO | Ilhan Omar | Obama | US Iran War | N18G",
+    "url": "https://www.youtube.com/watch?v=iLSTgGTSymk",
+    "thumbnail_url": "https://i.ytimg.com/vi/iLSTgGTSymk/hqdefault.jpg?v=69f56beb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDluvpX_GWriw4VXltwcMEaiVwUdg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "23 watching",
+      "23 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "23 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:12+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 23,
+    "waiting_count": null,
+    "recency_signal": "23 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 3,
+    "title": "West Bengal Exit Polls 2026 LIVE: Will BJP Form the Govt in Bengal? | TMC Vs BJP | Mamata | N18L",
+    "url": "https://www.youtube.com/watch?v=yPsaCQ05stc",
+    "thumbnail_url": "https://i.ytimg.com/vi/yPsaCQ05stc/hqdefault.jpg?v=69f479f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGpmuD-Ph9s8V4dmwrCrr7D_2yAA",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "17 watching",
+      "17 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "17 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:12+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 17,
+    "waiting_count": null,
+    "recency_signal": "17 watching | LIVE"
+  },
+  {
     "channel": "The Economic Times",
     "position": 6,
     "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota 'exposed' at Senate hearing",
@@ -7,21 +127,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/ddhZDuVKrIw/hqdefault.jpg?v=69f4d19c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3ETQFurlygrpLPTMirTgEM-NqVQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "53 watching",
-      "53 watching"
+      "32 watching",
+      "32 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "53 watching",
+    "viewer_count_text": "32 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 53,
+    "viewer_count": 32,
     "waiting_count": null,
-    "recency_signal": "53 watching | LIVE"
+    "recency_signal": "32 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -31,45 +151,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/KSXp4avL0-U/hqdefault.jpg?v=69f0b694&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCREsnYOyYsVMnfGYtGs0HtvIA2Kw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "31 watching",
-      "31 watching"
+      "24 watching",
+      "24 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "31 watching",
+    "viewer_count_text": "24 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 31,
+    "viewer_count": 24,
     "waiting_count": null,
-    "recency_signal": "31 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 4,
-    "title": "‘You want names? I’ll give you names’: Kash Patel drops Epstein bombshell at explosive House hearing",
-    "url": "https://www.youtube.com/watch?v=_eTarBDfMuE",
-    "thumbnail_url": "https://i.ytimg.com/vi/_eTarBDfMuE/hqdefault.jpg?v=69f4e6d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlI8MV9mdGeWROm2z6j5m4oBfmFg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "25 watching",
-      "25 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "25 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 25,
-    "waiting_count": null,
-    "recency_signal": "25 watching | LIVE"
+    "recency_signal": "24 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -77,54 +173,6 @@
     "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
     "url": "https://www.youtube.com/watch?v=ZR2rOTC79u0",
     "thumbnail_url": "https://i.ytimg.com/vi/ZR2rOTC79u0/hqdefault.jpg?v=69f4b5f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyLTzp3z6Nm8S5-rL545x4vUqqcg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "22 watching",
-      "22 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "22 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 22,
-    "waiting_count": null,
-    "recency_signal": "22 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 2,
-    "title": "'You helped fraudsters in $9B scam': Senators grill Minnesota AG Keith Ellison at explosive hearing",
-    "url": "https://www.youtube.com/watch?v=kxuy4lwGFoY",
-    "thumbnail_url": "https://i.ytimg.com/vi/kxuy4lwGFoY/hqdefault.jpg?v=69f50c3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOzsa_2TVP1wMtPpdrtx6UtPmf9Q",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "16 watching",
-      "16 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "16 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 16,
-    "waiting_count": null,
-    "recency_signal": "16 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 3,
-    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
-    "url": "https://www.youtube.com/watch?v=ACmw6s9yfh8",
-    "thumbnail_url": "https://i.ytimg.com/vi/ACmw6s9yfh8/hqdefault.jpg?v=69f4fdb7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBanK7FVCMMOX2koEETrrQ_JTvMw",
     "badge_text": "LIVE",
     "metadata_texts": [
       "12 watching",
@@ -136,12 +184,60 @@
     "viewer_count_text": "12 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 12,
     "waiting_count": null,
     "recency_signal": "12 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 2,
+    "title": "'You helped fraudsters in $9B scam': Senators grill Minnesota AG Keith Ellison at explosive hearing",
+    "url": "https://www.youtube.com/watch?v=kxuy4lwGFoY",
+    "thumbnail_url": "https://i.ytimg.com/vi/kxuy4lwGFoY/hqdefault.jpg?v=69f50c3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOzsa_2TVP1wMtPpdrtx6UtPmf9Q",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "9 watching",
+      "9 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "9 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 9,
+    "waiting_count": null,
+    "recency_signal": "9 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 3,
+    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
+    "url": "https://www.youtube.com/watch?v=ACmw6s9yfh8",
+    "thumbnail_url": "https://i.ytimg.com/vi/ACmw6s9yfh8/hqdefault.jpg?v=69f4fdb7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBanK7FVCMMOX2koEETrrQ_JTvMw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "7 watching",
+      "7 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "7 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 7,
+    "waiting_count": null,
+    "recency_signal": "7 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -160,36 +256,12 @@
     "viewer_count_text": "7 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 7,
     "waiting_count": null,
     "recency_signal": "7 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 1,
-    "title": "'This charade…': Democrats walk out after clash with GOP Senators at explosive ICE hearing",
-    "url": "https://www.youtube.com/watch?v=m493MGfVHOQ",
-    "thumbnail_url": "https://i.ytimg.com/vi/m493MGfVHOQ/hqdefault.jpg?v=69f50d86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFvPueFiflCAFvP_B4LAKH0h7lVw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "4 watching",
-      "4 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "4 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 4,
-    "waiting_count": null,
-    "recency_signal": "4 watching | LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -199,21 +271,66 @@
     "thumbnail_url": "https://i.ytimg.com/vi/N-MmYYqOcqo/hqdefault.jpg?v=69f493b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnwFp6UiwfidpMOgWoiLCZoPJZUA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "3 watching",
-      "3 watching"
+      "2 watching",
+      "2 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "3 watching",
+    "viewer_count_text": "2 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 3,
+    "viewer_count": 2,
     "waiting_count": null,
-    "recency_signal": "3 watching | LIVE"
+    "recency_signal": "2 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 1,
+    "title": "'This charade…': Democrats walk out after clash with GOP Senators at explosive ICE hearing",
+    "url": "https://www.youtube.com/watch?v=m493MGfVHOQ",
+    "thumbnail_url": "https://i.ytimg.com/vi/m493MGfVHOQ/hqdefault.jpg?v=69f50d86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFvPueFiflCAFvP_B4LAKH0h7lVw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "1 watching",
+      "1 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "1 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 1,
+    "waiting_count": null,
+    "recency_signal": "1 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 4,
+    "title": "‘You want names? I’ll give you names’: Kash Patel drops Epstein bombshell at explosive House hearing",
+    "url": "https://www.youtube.com/watch?v=_eTarBDfMuE",
+    "thumbnail_url": "https://i.ytimg.com/vi/_eTarBDfMuE/hqdefault.jpg?v=69f4e6d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlI8MV9mdGeWROm2z6j5m4oBfmFg",
+    "badge_text": "LIVE",
+    "metadata_texts": [],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": null,
+    "waiting_count": null,
+    "recency_signal": "LIVE"
   },
   {
     "channel": "The Economic Times",
@@ -229,98 +346,11 @@
     "viewer_count_text": "",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
+    "collected_at_iso": "2026-05-02T05:35:23+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": null,
     "waiting_count": null,
     "recency_signal": "LIVE"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 4,
-    "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
-    "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
-    "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "98 watching",
-      "98 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "98 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "live",
-    "viewer_count": 98,
-    "waiting_count": null,
-    "recency_signal": "98 watching | LIVE"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 1,
-    "title": "Daily Market Coverage May 4, 2026 3PM-5PM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=HQLPNKCENZc",
-    "thumbnail_url": "https://i.ytimg.com/vi/HQLPNKCENZc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0S4hz_UlzluZtbnUyKpQXxWPaRg",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "",
-    "scheduled_at_text": "2026-05-04T19:00:00+00:00",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": null,
-    "recency_signal": "2026-05-04T19:00:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 2,
-    "title": "LIVE: The Daily Wolf with Scott Melker",
-    "url": "https://www.youtube.com/watch?v=-cu4WWZFUEE",
-    "thumbnail_url": "https://i.ytimg.com/vi/-cu4WWZFUEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxt2gf3APPLDNUkGW_1lRjv3TPfA",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "",
-    "scheduled_at_text": "2026-05-04T16:00:00+00:00",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": null,
-    "recency_signal": "2026-05-04T16:00:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 3,
-    "title": "Daily Market Coverage May 4, 2026 9AM-11AM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=qt5kNB9Aifw",
-    "thumbnail_url": "https://i.ytimg.com/vi/qt5kNB9Aifw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIjMq5Jd0rE2Jz0gI1xaUf4lHt7g",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "",
-    "scheduled_at_text": "2026-05-04T13:00:00+00:00",
-    "collected_at_iso": "2026-05-02T02:30:38+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": null,
-    "recency_signal": "2026-05-04T13:00:00+00:00 | UPCOMING"
   }
 ]
