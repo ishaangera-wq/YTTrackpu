@@ -1,130 +1,82 @@
 [
   {
     "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "West Bengal Exit Polls 2026 LIVE: Will BJP Form the Govt in Bengal? | TMC Vs BJP | Mamata | N18L",
-    "url": "https://www.youtube.com/watch?v=PBO9B20JtpA",
-    "thumbnail_url": "https://i.ytimg.com/vi/PBO9B20JtpA/hqdefault.jpg?v=69f6c3cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAilcSvodlk8TgmUDuIpLzp7nL84Q",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "213 watching",
-      "213 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "213 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 213,
-    "waiting_count": null,
-    "recency_signal": "213 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
+    "position": 4,
     "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
     "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
     "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "156 watching",
-      "156 watching"
+      "342 watching",
+      "342 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "156 watching",
+    "viewer_count_text": "342 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:05+00:00",
+    "collected_at_iso": "2026-05-03T08:02:51+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 156,
+    "viewer_count": 342,
     "waiting_count": null,
-    "recency_signal": "156 watching | LIVE"
+    "recency_signal": "342 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 4,
+    "position": 2,
+    "title": "West Bengal Exit Polls 2026 LIVE: Will BJP Form the Govt in Bengal? | TMC Vs BJP | Mamata | N18L",
+    "url": "https://www.youtube.com/watch?v=PBO9B20JtpA",
+    "thumbnail_url": "https://i.ytimg.com/vi/PBO9B20JtpA/hqdefault.jpg?v=69f6c3cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAilcSvodlk8TgmUDuIpLzp7nL84Q",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "110 watching",
+      "110 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "110 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-03T08:02:51+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 110,
+    "waiting_count": null,
+    "recency_signal": "110 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 5,
     "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
     "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
     "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "39 watching",
-      "39 watching"
+      "16 watching",
+      "16 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "39 watching",
+    "viewer_count_text": "16 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:05+00:00",
+    "collected_at_iso": "2026-05-03T08:02:51+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 39,
+    "viewer_count": 16,
     "waiting_count": null,
-    "recency_signal": "39 watching | LIVE"
+    "recency_signal": "16 watching | LIVE"
   },
   {
     "channel": "CNBC-TV18",
-    "position": 2,
+    "position": 3,
     "title": "Donald Trump LIVE: US President LOSES HIS COOL On NATO | Ilhan Omar | Obama | US Iran War | N18G",
     "url": "https://www.youtube.com/watch?v=2yjJTToje_k",
     "thumbnail_url": "https://i.ytimg.com/vi/2yjJTToje_k/hqdefault.jpg?v=69f6c36b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAONTAFOeJPvb1tFUaRNNbPg8BFVQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "25 watching",
-      "25 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "25 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:05+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 25,
-    "waiting_count": null,
-    "recency_signal": "25 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 3,
-    "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota 'exposed' at Senate hearing",
-    "url": "https://www.youtube.com/watch?v=ddhZDuVKrIw",
-    "thumbnail_url": "https://i.ytimg.com/vi/ddhZDuVKrIw/hqdefault.jpg?v=69f4d19c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3ETQFurlygrpLPTMirTgEM-NqVQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "28 watching",
-      "28 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "28 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 28,
-    "waiting_count": null,
-    "recency_signal": "28 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 7,
-    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
-    "url": "https://www.youtube.com/watch?v=KSXp4avL0-U",
-    "thumbnail_url": "https://i.ytimg.com/vi/KSXp4avL0-U/hqdefault.jpg?v=69f0b694&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCREsnYOyYsVMnfGYtGs0HtvIA2Kw",
     "badge_text": "LIVE",
     "metadata_texts": [
       "15 watching",
@@ -136,131 +88,35 @@
     "viewer_count_text": "15 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "collected_at_iso": "2026-05-03T08:02:51+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
     "viewer_count": 15,
     "waiting_count": null,
     "recency_signal": "15 watching | LIVE"
   },
   {
-    "channel": "The Economic Times",
-    "position": 4,
-    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
-    "url": "https://www.youtube.com/watch?v=ZR2rOTC79u0",
-    "thumbnail_url": "https://i.ytimg.com/vi/ZR2rOTC79u0/hqdefault.jpg?v=69f4b5f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyLTzp3z6Nm8S5-rL545x4vUqqcg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "5 watching",
-      "5 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "5 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 5,
-    "waiting_count": null,
-    "recency_signal": "5 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
+    "channel": "CNBC-TV18",
     "position": 1,
-    "title": "Trump Goes OFF on Minnesota leadership, slams Gov Walz, Ellison in fiery rant | MN Somali Fraud",
-    "url": "https://www.youtube.com/watch?v=ws8mwGNSteY",
-    "thumbnail_url": "https://i.ytimg.com/vi/ws8mwGNSteY/hqdefault.jpg?v=69f6110a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB3I0erZEt_01XEt9nYpU8wDINqA",
+    "title": "WATCH LIVE: SpaceX Falcon 9 Launches CAS500-2 Mission from California | Full Liftoff | N18G",
+    "url": "https://www.youtube.com/watch?v=FLMPrAP0Gsg",
+    "thumbnail_url": "https://i.ytimg.com/vi/FLMPrAP0Gsg/hqdefault.jpg?v=69f6ee3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4noIOhZni3Moohr60gIhali6I2A",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "4 watching",
-      "4 watching"
+      "13 watching",
+      "13 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "4 watching",
+    "viewer_count_text": "13 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "collected_at_iso": "2026-05-03T08:02:51+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 4,
+    "viewer_count": 13,
     "waiting_count": null,
-    "recency_signal": "4 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 2,
-    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
-    "url": "https://www.youtube.com/watch?v=ACmw6s9yfh8",
-    "thumbnail_url": "https://i.ytimg.com/vi/ACmw6s9yfh8/hqdefault.jpg?v=69f4fdb7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBanK7FVCMMOX2koEETrrQ_JTvMw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "3 watching",
-      "3 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "3 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 3,
-    "waiting_count": null,
-    "recency_signal": "3 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 5,
-    "title": "‘How did over $9B slip away so easily?’: GOP lawmakers demand answers on Minnesota Somali fraud",
-    "url": "https://www.youtube.com/watch?v=N-MmYYqOcqo",
-    "thumbnail_url": "https://i.ytimg.com/vi/N-MmYYqOcqo/hqdefault.jpg?v=69f493b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnwFp6UiwfidpMOgWoiLCZoPJZUA",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "2 watching",
-      "2 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "2 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2 watching | LIVE"
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 6,
-    "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
-    "url": "https://www.youtube.com/watch?v=OLWGH31kBpo",
-    "thumbnail_url": "https://i.ytimg.com/vi/OLWGH31kBpo/hqdefault.jpg?v=69f34a68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtX_l74g3usHQl8EqPrtvL5TY6KQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "2 watching",
-      "2 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "2 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T05:57:15+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2 watching | LIVE"
+    "recency_signal": "13 watching | LIVE"
   }
 ]
