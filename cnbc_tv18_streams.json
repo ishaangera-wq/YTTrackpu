@@ -1,125 +1,5 @@
 [
   {
-    "channel": "CNBC-TV18",
-    "position": 4,
-    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
-    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
-    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "576 watching",
-      "576 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "576 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:09+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 576,
-    "waiting_count": null,
-    "recency_signal": "576 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 2,
-    "title": "West Bengal Exit Polls 2026 LIVE: Will BJP Form the Govt in Bengal? | TMC Vs BJP | Mamata | N18L",
-    "url": "https://www.youtube.com/watch?v=PBO9B20JtpA",
-    "thumbnail_url": "https://i.ytimg.com/vi/PBO9B20JtpA/hqdefault.jpg?v=69f6c3cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAilcSvodlk8TgmUDuIpLzp7nL84Q",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "92 watching",
-      "92 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "92 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:09+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 92,
-    "waiting_count": null,
-    "recency_signal": "92 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Trump Iran Ceasefire| Share Markets Updates |Nifty & Sensex",
-    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
-    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "20 watching",
-      "20 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "20 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:09+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 20,
-    "waiting_count": null,
-    "recency_signal": "20 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
-    "title": "Donald Trump LIVE: US President LOSES HIS COOL On NATO | Ilhan Omar | Obama | US Iran War | N18G",
-    "url": "https://www.youtube.com/watch?v=2yjJTToje_k",
-    "thumbnail_url": "https://i.ytimg.com/vi/2yjJTToje_k/hqdefault.jpg?v=69f6c36b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAONTAFOeJPvb1tFUaRNNbPg8BFVQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "9 watching",
-      "9 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "9 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:09+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 9,
-    "waiting_count": null,
-    "recency_signal": "9 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "WATCH LIVE: SpaceX Falcon 9 Launches CAS500-2 Mission from California | Full Liftoff | N18G",
-    "url": "https://www.youtube.com/watch?v=FLMPrAP0Gsg",
-    "thumbnail_url": "https://i.ytimg.com/vi/FLMPrAP0Gsg/hqdefault.jpg?v=69f6ee3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4noIOhZni3Moohr60gIhali6I2A",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "1 watching",
-      "1 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "1 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:09+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 1,
-    "waiting_count": null,
-    "recency_signal": "1 watching | LIVE"
-  },
-  {
     "channel": "Yahoo Finance",
     "position": 4,
     "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
@@ -127,45 +7,45 @@
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "60 watching",
-      "60 watching"
+      "66 watching",
+      "66 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "60 watching",
+    "viewer_count_text": "66 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:19+00:00",
+    "collected_at_iso": "2026-05-03T14:46:40+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 60,
+    "viewer_count": 66,
     "waiting_count": null,
-    "recency_signal": "60 watching | LIVE"
+    "recency_signal": "66 watching | LIVE"
   },
   {
     "channel": "Zee Business",
     "position": 1,
-    "title": "3rd May 2026 : Zee Business Live | Share Market Live Updates | Stock Market News",
-    "url": "https://www.youtube.com/watch?v=2wJRvkVQeVo",
-    "thumbnail_url": "https://i.ytimg.com/vi/2wJRvkVQeVo/hqdefault.jpg?v=69f6dd19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoZzm41FshcwfbN_WiIKUZTYWJ5g",
+    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
+    "url": "https://www.youtube.com/watch?v=8TrMIVCL9iM",
+    "thumbnail_url": "https://i.ytimg.com/vi/8TrMIVCL9iM/hqdefault.jpg?v=69f75011&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANTpWeKvDezJaa_8yHRKZQ2iifDw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "65 watching",
-      "65 watching"
+      "70 watching",
+      "70 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "65 watching",
+    "viewer_count_text": "70 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:10+00:00",
+    "collected_at_iso": "2026-05-03T14:46:31+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 65,
+    "viewer_count": 70,
     "waiting_count": null,
-    "recency_signal": "65 watching | LIVE"
+    "recency_signal": "70 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -175,21 +55,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "20 watching",
-      "20 watching"
+      "29 watching",
+      "29 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "20 watching",
+    "viewer_count_text": "29 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:10+00:00",
+    "collected_at_iso": "2026-05-03T14:46:31+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 20,
+    "viewer_count": 29,
     "waiting_count": null,
-    "recency_signal": "20 watching | LIVE"
+    "recency_signal": "29 watching | LIVE"
   },
   {
     "channel": "Zee Business",
@@ -199,21 +79,21 @@
     "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "1 watching",
-      "1 watching"
+      "7 watching",
+      "7 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1 watching",
+    "viewer_count_text": "7 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-03T13:04:10+00:00",
+    "collected_at_iso": "2026-05-03T14:46:31+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 1,
+    "viewer_count": 7,
     "waiting_count": null,
-    "recency_signal": "1 watching | LIVE"
+    "recency_signal": "7 watching | LIVE"
   },
   {
     "channel": "Yahoo Finance",
@@ -229,7 +109,7 @@
     "viewer_count_text": "",
     "waiting_count_text": "",
     "scheduled_at_text": "2026-05-04T19:00:00+00:00",
-    "collected_at_iso": "2026-05-03T13:04:19+00:00",
+    "collected_at_iso": "2026-05-03T14:46:40+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
@@ -250,7 +130,7 @@
     "viewer_count_text": "",
     "waiting_count_text": "",
     "scheduled_at_text": "2026-05-04T16:00:00+00:00",
-    "collected_at_iso": "2026-05-03T13:04:19+00:00",
+    "collected_at_iso": "2026-05-03T14:46:40+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
@@ -271,7 +151,7 @@
     "viewer_count_text": "",
     "waiting_count_text": "",
     "scheduled_at_text": "2026-05-04T13:00:00+00:00",
-    "collected_at_iso": "2026-05-03T13:04:19+00:00",
+    "collected_at_iso": "2026-05-03T14:46:40+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "upcoming",
     "viewer_count": null,
