@@ -1,170 +1,314 @@
 [
   {
-    "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "🔴Tamil Nadu Election Results LIVE: Thalapathy Vijay TVK Leading | தமிழக தேர்தல் முடிவுகள் | DMK",
-    "url": "https://www.youtube.com/watch?v=3S8ggUv-CxY",
-    "thumbnail_url": "https://i.ytimg.com/vi/3S8ggUv-CxY/hqdefault.jpg?v=69f844ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA-i5vQAHwCKs2eLJ-sSCmAYenHg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "885 watching",
-      "885 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "885 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 885,
-    "waiting_count": null,
-    "recency_signal": "885 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "🔴TN Election Results 2026 LIVE: TVK Vijay Leads Tamil Nadu Elections | தமிழக தேர்தல் முடிவுகள் | DMK",
-    "url": "https://www.youtube.com/watch?v=BdD12-tak9I",
-    "thumbnail_url": "https://i.ytimg.com/vi/BdD12-tak9I/hqdefault.jpg?v=69f8a486&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-QGsbzg2RrRic8oNqneCvVa5hug",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "380 watching",
-      "380 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "380 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 380,
-    "waiting_count": null,
-    "recency_signal": "380 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
+    "channel": "The Economic Times",
     "position": 6,
-    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
-    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
-    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
+    "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota 'exposed' at Senate hearing",
+    "url": "https://www.youtube.com/watch?v=jvY3XlcErUY",
+    "thumbnail_url": "https://i.ytimg.com/vi/jvY3XlcErUY/hqdefault.jpg?v=69f89e9c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQiWDtq95tbjfglpCm-mqDOm9xrA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "134 watching",
-      "134 watching"
+      "281 watching",
+      "281 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "134 watching",
+    "viewer_count_text": "281 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 134,
+    "viewer_count": 281,
     "waiting_count": null,
-    "recency_signal": "134 watching | LIVE"
+    "recency_signal": "281 watching | LIVE"
   },
   {
-    "channel": "CNBC-TV18",
+    "channel": "The Economic Times",
     "position": 4,
-    "title": "🔴TN Election Results 2026 LIVE: TVK Chief Vijay Waves To His Fans | தமிழக தேர்தல் | DMK முடிவுகள்",
-    "url": "https://www.youtube.com/watch?v=tqATV1N7MCE",
-    "thumbnail_url": "https://i.ytimg.com/vi/tqATV1N7MCE/hqdefault.jpg?v=69f88740&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtSbU4LehKdtNtJhOKC-rkZaRsEw",
+    "title": "'Are you kidding me?': GOP lawmakers clash with former special counsel Jack Smith over Trump probe",
+    "url": "https://www.youtube.com/watch?v=4n5vbW0vDZ4",
+    "thumbnail_url": "https://i.ytimg.com/vi/4n5vbW0vDZ4/hqdefault.jpg?v=69f8ce92&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwazsHRg8Lm5tomImRG-Kyzif4Kg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "106 watching",
-      "106 watching"
+      "92 watching",
+      "92 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "106 watching",
+    "viewer_count_text": "92 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 106,
+    "viewer_count": 92,
     "waiting_count": null,
-    "recency_signal": "106 watching | LIVE"
+    "recency_signal": "92 watching | LIVE"
   },
   {
-    "channel": "CNBC-TV18",
+    "channel": "The Economic Times",
+    "position": 8,
+    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
+    "url": "https://www.youtube.com/watch?v=ZR2rOTC79u0",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZR2rOTC79u0/hqdefault.jpg?v=69f4b5f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyLTzp3z6Nm8S5-rL545x4vUqqcg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "42 watching",
+      "42 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "42 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 42,
+    "waiting_count": null,
+    "recency_signal": "42 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 10,
+    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
+    "url": "https://www.youtube.com/watch?v=KSXp4avL0-U",
+    "thumbnail_url": "https://i.ytimg.com/vi/KSXp4avL0-U/hqdefault.jpg?v=69f0b694&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCREsnYOyYsVMnfGYtGs0HtvIA2Kw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "30 watching",
+      "30 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "30 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 30,
+    "waiting_count": null,
+    "recency_signal": "30 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
     "position": 3,
-    "title": "WATCH PM Modi's GRAND Victory Speech LIVE | BJP Wins Bengal & Assam | Election Results 2026 | N18L",
-    "url": "https://www.youtube.com/watch?v=avU0XS2BiM4",
-    "thumbnail_url": "https://i.ytimg.com/vi/avU0XS2BiM4/hqdefault.jpg?v=69f88d5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV_0JvQ1ExW5h3ebYKk_5xglfxvA",
+    "title": "‘You want names? I’ll give you names’: Kash Patel drops Epstein bombshell at explosive House hearing",
+    "url": "https://www.youtube.com/watch?v=6JDJ8msi2uc",
+    "thumbnail_url": "https://i.ytimg.com/vi/6JDJ8msi2uc/hqdefault.jpg?v=69f8dc5b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl6NGWp-PNi5CwqkNnxlXPhjcK6Q",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "48 watching",
-      "48 watching"
+      "24 watching",
+      "24 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "48 watching",
+    "viewer_count_text": "24 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 48,
+    "viewer_count": 24,
     "waiting_count": null,
-    "recency_signal": "48 watching | LIVE"
+    "recency_signal": "24 watching | LIVE"
   },
   {
-    "channel": "CNBC-TV18",
+    "channel": "The Economic Times",
     "position": 7,
-    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Election Results LIVE |Share Market Updates |Nifty & Sensex",
-    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
-    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
+    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
+    "url": "https://www.youtube.com/watch?v=1UZJ8S1jfbM",
+    "thumbnail_url": "https://i.ytimg.com/vi/1UZJ8S1jfbM/hqdefault.jpg?v=69f75c88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlOopFn_ZcNzwMGg6jAW8aqLnvLw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "33 watching",
-      "33 watching"
+      "12 watching",
+      "12 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "33 watching",
+    "viewer_count_text": "12 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 33,
+    "viewer_count": 12,
     "waiting_count": null,
-    "recency_signal": "33 watching | LIVE"
+    "recency_signal": "12 watching | LIVE"
   },
   {
-    "channel": "CNBC-TV18",
+    "channel": "The Economic Times",
     "position": 2,
-    "title": "LIVE: Lotus Blooms In Bengal | Dravidian Binary Ends In TN | Congress-Led UDF Wins Kerala",
-    "url": "https://www.youtube.com/watch?v=guYLwvskWHw",
-    "thumbnail_url": "https://i.ytimg.com/vi/guYLwvskWHw/hqdefault.jpg?v=69f89d5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrEYZV7G5PBPrOpHM7uRR1xfVMxg",
+    "title": "'This charade…': Democrats walk out after clash with GOP Senators at explosive ICE hearing",
+    "url": "https://www.youtube.com/watch?v=ztn1qkeWxP8",
+    "thumbnail_url": "https://i.ytimg.com/vi/ztn1qkeWxP8/hqdefault.jpg?v=69f8dd61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW-kNPpNaPh5vX7liJNHkh8rWu8g",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "20 watching",
-      "20 watching"
+      "6 watching",
+      "6 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "20 watching",
+    "viewer_count_text": "6 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-04T17:49:10+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 20,
+    "viewer_count": 6,
     "waiting_count": null,
-    "recency_signal": "20 watching | LIVE"
+    "recency_signal": "6 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 9,
+    "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
+    "url": "https://www.youtube.com/watch?v=OLWGH31kBpo",
+    "thumbnail_url": "https://i.ytimg.com/vi/OLWGH31kBpo/hqdefault.jpg?v=69f34a68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtX_l74g3usHQl8EqPrtvL5TY6KQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "6 watching",
+      "6 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "6 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 6,
+    "waiting_count": null,
+    "recency_signal": "6 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 5,
+    "title": "'Americans are not buying your lies…': Senators brutally GRILL Hegseth over Iran war, army firings",
+    "url": "https://www.youtube.com/watch?v=l3dSsWFXgww",
+    "thumbnail_url": "https://i.ytimg.com/vi/l3dSsWFXgww/hqdefault.jpg?v=69f8ca6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhbwiENV6feSARRU_JkbLCOUqBYQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "5 watching",
+      "5 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "5 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 5,
+    "waiting_count": null,
+    "recency_signal": "5 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 1,
+    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
+    "url": "https://www.youtube.com/watch?v=02xdDYOw0nU",
+    "thumbnail_url": "https://i.ytimg.com/vi/02xdDYOw0nU/hqdefault.jpg?v=69f8ce68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFPMHmjq4kbihyaBWCb3weEWJJDQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "36 watching",
+      "36 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "36 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 36,
+    "waiting_count": null,
+    "recency_signal": "36 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 2,
+    "title": "Zee Business Live | Anil Singhvi | Share Market Live Updates | Stock Market News",
+    "url": "https://www.youtube.com/watch?v=JHh2HgJnBZI",
+    "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "26 watching",
+      "26 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "26 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 26,
+    "waiting_count": null,
+    "recency_signal": "26 watching | LIVE"
+  },
+  {
+    "channel": "Zee Business",
+    "position": 3,
+    "title": "Anil Singhvi LIVE: आज कहां करें इन्वेस्ट | Stock Market Update | Business & Finance | Zee Business",
+    "url": "https://www.youtube.com/watch?v=XozXbA7YUwk",
+    "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "3 watching",
+      "3 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "3 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 3,
+    "waiting_count": null,
+    "recency_signal": "3 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 1,
+    "title": "TRUMP LIVE: POTUS holds small business summit at White House",
+    "url": "https://www.youtube.com/watch?v=WmmypXIJaJI",
+    "thumbnail_url": "https://i.ytimg.com/vi/WmmypXIJaJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5SpSOkkefOErz0VmyPzPh7KtMlw",
+    "badge_text": "UPCOMING",
+    "metadata_texts": [
+      "1 waiting",
+      "1 waiting"
+    ],
+    "overlay_texts": [
+      "Upcoming"
+    ],
+    "viewer_count_text": "",
+    "waiting_count_text": "1 waiting",
+    "scheduled_at_text": "2026-05-04T18:38:10+00:00",
+    "collected_at_iso": "2026-05-04T19:26:04+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "upcoming",
+    "viewer_count": null,
+    "waiting_count": 1,
+    "recency_signal": "1 waiting | 2026-05-04T18:38:10+00:00 | UPCOMING"
   }
 ]
