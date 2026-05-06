@@ -1,95 +1,191 @@
 [
   {
-    "channel": "Yahoo Finance",
-    "position": 4,
-    "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
-    "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
-    "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
+    "channel": "The Economic Times",
+    "position": 8,
+    "title": "'Who was the real Prez?': Senators erupt as autopen scandal explodes at ‘Biden cover-up’ hearing",
+    "url": "https://www.youtube.com/watch?v=ZR2rOTC79u0",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZR2rOTC79u0/hqdefault.jpg?v=69f4b5f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyLTzp3z6Nm8S5-rL545x4vUqqcg",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "185 watching",
-      "185 watching"
+      "34 watching",
+      "34 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "185 watching",
+    "viewer_count_text": "34 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T22:52:11+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 185,
+    "viewer_count": 34,
     "waiting_count": null,
-    "recency_signal": "185 watching | LIVE"
+    "recency_signal": "34 watching | LIVE"
   },
   {
-    "channel": "Yahoo Finance",
-    "position": 2,
-    "title": "LIVE: The Daily Wolf with Scott Melker",
-    "url": "https://www.youtube.com/watch?v=EASk12q9h8Y",
-    "thumbnail_url": "https://i.ytimg.com/vi/EASk12q9h8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVCSSivZY_LxuHJpDOlAD7Fbq_VQ",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [
-      "1 waiting",
-      "1 waiting"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "1 waiting",
-    "scheduled_at_text": "2026-05-07T16:00:00+00:00",
-    "collected_at_iso": "2026-05-06T22:52:11+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 1,
-    "recency_signal": "1 waiting | 2026-05-07T16:00:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
+    "channel": "The Economic Times",
     "position": 3,
-    "title": "Daily Market Coverage May 7, 2026 9AM-11AM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=frtl1lJwDlo",
-    "thumbnail_url": "https://i.ytimg.com/vi/frtl1lJwDlo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGufNVD51MKIt1EyXLLZx18R6FOw",
-    "badge_text": "UPCOMING",
+    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' testimony sends Senate hearing into chaos",
+    "url": "https://www.youtube.com/watch?v=iz0gOOy99AM",
+    "thumbnail_url": "https://i.ytimg.com/vi/iz0gOOy99AM/hqdefault.jpg?v=69fb3ab2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWKT2hOMxiGUX0yD63vKFoPPtQAg",
+    "badge_text": "LIVE",
     "metadata_texts": [
-      "1 waiting",
-      "1 waiting"
+      "18 watching",
+      "18 watching"
     ],
     "overlay_texts": [
-      "Upcoming"
+      "LIVE"
     ],
-    "viewer_count_text": "",
-    "waiting_count_text": "1 waiting",
-    "scheduled_at_text": "2026-05-07T13:00:00+00:00",
-    "collected_at_iso": "2026-05-06T22:52:11+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 1,
-    "recency_signal": "1 waiting | 2026-05-07T13:00:00+00:00 | UPCOMING"
+    "viewer_count_text": "18 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 18,
+    "waiting_count": null,
+    "recency_signal": "18 watching | LIVE"
   },
   {
-    "channel": "Yahoo Finance",
+    "channel": "The Economic Times",
+    "position": 5,
+    "title": "'Blood clots surge like never before…': McCullough exposes mRNA COVID vaccine lies at Senate hearing",
+    "url": "https://www.youtube.com/watch?v=ltA65NbXbPY",
+    "thumbnail_url": "https://i.ytimg.com/vi/ltA65NbXbPY/hqdefault.jpg?v=69f9ec60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4vFiGhSXk2lHOCilAkxq9J8BzMQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "14 watching",
+      "14 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "14 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 14,
+    "waiting_count": null,
+    "recency_signal": "14 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
     "position": 1,
-    "title": "Daily Market Coverage May 7, 2026 3PM-5PM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=kni1c2subv4",
-    "thumbnail_url": "https://i.ytimg.com/vi/kni1c2subv4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ05lVQ9kyOaQbFse6iL49sriLIQ",
-    "badge_text": "UPCOMING",
+    "title": "'You're not READY FOR MY DJ NAME!’: Marco Rubio jokes through 'chaotic' White House press briefing",
+    "url": "https://www.youtube.com/watch?v=iUtPFo8gloA",
+    "thumbnail_url": "https://i.ytimg.com/vi/iUtPFo8gloA/hqdefault.jpg?v=69fb704f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDVBrpJBlQfvPe9ftuu6ul8fsYrQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "9 watching",
+      "9 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "9 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 9,
+    "waiting_count": null,
+    "recency_signal": "9 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 6,
+    "title": "'Dark money groups funded $60M…': Soros-linked network in Minnesota 'exposed' at Senate hearing",
+    "url": "https://www.youtube.com/watch?v=jvY3XlcErUY",
+    "thumbnail_url": "https://i.ytimg.com/vi/jvY3XlcErUY/hqdefault.jpg?v=69f89e9c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQiWDtq95tbjfglpCm-mqDOm9xrA",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "7 watching",
+      "7 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "7 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 7,
+    "waiting_count": null,
+    "recency_signal": "7 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 7,
+    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
+    "url": "https://www.youtube.com/watch?v=1UZJ8S1jfbM",
+    "thumbnail_url": "https://i.ytimg.com/vi/1UZJ8S1jfbM/hqdefault.jpg?v=69f75c88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlOopFn_ZcNzwMGg6jAW8aqLnvLw",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "5 watching",
+      "5 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "5 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 5,
+    "waiting_count": null,
+    "recency_signal": "5 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 2,
+    "title": "TRUMP LIVE | POTUS & First Lady Melania honour mothers of US Service Members at the White House",
+    "url": "https://www.youtube.com/watch?v=5Y40m35FrKU",
+    "thumbnail_url": "https://i.ytimg.com/vi/5Y40m35FrKU/hqdefault.jpg?v=69fb678f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvBXbs4jlrcX-F5dLt6U-Ii95gnQ",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "1 watching",
+      "1 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "1 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 1,
+    "waiting_count": null,
+    "recency_signal": "1 watching | LIVE"
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 4,
+    "title": "‘You want names? I’ll give you names’: Kash Patel drops Epstein bombshell at explosive House hearing",
+    "url": "https://www.youtube.com/watch?v=tdEK-q0M5ds",
+    "thumbnail_url": "https://i.ytimg.com/vi/tdEK-q0M5ds/hqdefault.jpg?v=69fa2fcd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5Qs7l3dzV2XrJAYac6SfQCFgauA",
+    "badge_text": "LIVE",
     "metadata_texts": [],
     "overlay_texts": [
-      "Upcoming"
+      "LIVE"
     ],
     "viewer_count_text": "",
     "waiting_count_text": "",
-    "scheduled_at_text": "2026-05-07T19:00:00+00:00",
-    "collected_at_iso": "2026-05-06T22:52:11+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T23:48:02+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
     "viewer_count": null,
     "waiting_count": null,
-    "recency_signal": "2026-05-07T19:00:00+00:00 | UPCOMING"
+    "recency_signal": "LIVE"
   }
 ]
