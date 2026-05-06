@@ -1,194 +1,95 @@
 [
   {
-    "channel": "CNBC-TV18",
-    "position": 2,
-    "title": "Bangla News LIVE: Suvendu Adhikari's Assistant Shot Dead Days After BJP's Mega Bengal Victory | TMC",
-    "url": "https://www.youtube.com/watch?v=AY69TbWMClY",
-    "thumbnail_url": "https://i.ytimg.com/vi/AY69TbWMClY/hqdefault.jpg?v=69fb88d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCfP69rvSR6jrLMRbm9mXsANPWuQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "117 watching",
-      "117 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "117 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 117,
-    "waiting_count": null,
-    "recency_signal": "117 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
+    "channel": "Yahoo Finance",
     "position": 4,
-    "title": "Champions League Semi-Final LIVE: PSG v Bayern Munich Match LIVE Score | UEFA 2026 LIVE | N18G",
-    "url": "https://www.youtube.com/watch?v=UaZoNHsF4_g",
-    "thumbnail_url": "https://i.ytimg.com/vi/UaZoNHsF4_g/hqdefault.jpg?v=69fb5ebb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaSLCx86mxO8hEaDKT4f8NblU-fA",
+    "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
+    "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
+    "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "104 watching",
-      "104 watching"
+      "185 watching",
+      "185 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "104 watching",
+    "viewer_count_text": "185 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "collected_at_iso": "2026-05-06T22:52:11+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 104,
+    "viewer_count": 185,
     "waiting_count": null,
-    "recency_signal": "104 watching | LIVE"
+    "recency_signal": "185 watching | LIVE"
   },
   {
-    "channel": "CNBC-TV18",
-    "position": 6,
-    "title": "🔴Tamil Nadu Government Formation LIVE: Congress Joins TVK's Vijay | DMK Vs Congress | TN Elections",
-    "url": "https://www.youtube.com/watch?v=vIYoTGRGZp8",
-    "thumbnail_url": "https://i.ytimg.com/vi/vIYoTGRGZp8/hqdefault.jpg?v=69facd90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALFQEj3XzFnxJVYffBez5WcbtLlQ",
-    "badge_text": "LIVE",
+    "channel": "Yahoo Finance",
+    "position": 2,
+    "title": "LIVE: The Daily Wolf with Scott Melker",
+    "url": "https://www.youtube.com/watch?v=EASk12q9h8Y",
+    "thumbnail_url": "https://i.ytimg.com/vi/EASk12q9h8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVCSSivZY_LxuHJpDOlAD7Fbq_VQ",
+    "badge_text": "UPCOMING",
     "metadata_texts": [
-      "79 watching",
-      "79 watching"
+      "1 waiting",
+      "1 waiting"
     ],
     "overlay_texts": [
-      "LIVE"
+      "Upcoming"
     ],
-    "viewer_count_text": "79 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 79,
-    "waiting_count": null,
-    "recency_signal": "79 watching | LIVE"
+    "viewer_count_text": "",
+    "waiting_count_text": "1 waiting",
+    "scheduled_at_text": "2026-05-07T16:00:00+00:00",
+    "collected_at_iso": "2026-05-06T22:52:11+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "upcoming",
+    "viewer_count": null,
+    "waiting_count": 1,
+    "recency_signal": "1 waiting | 2026-05-07T16:00:00+00:00 | UPCOMING"
   },
   {
-    "channel": "CNBC-TV18",
-    "position": 7,
-    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
-    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
-    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "76 watching",
-      "76 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "76 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 76,
-    "waiting_count": null,
-    "recency_signal": "76 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 5,
-    "title": "LIVE: Trouble for TVK Vijay's Oath Taking Ceremony | AIADMK Says Will Not Support TVK | Congress DMK",
-    "url": "https://www.youtube.com/watch?v=miYSWoqO2eU",
-    "thumbnail_url": "https://i.ytimg.com/vi/miYSWoqO2eU/hqdefault.jpg?v=69fb40d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClMu6L7AJIf6SkcHfSyDs9i4nsvQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "63 watching",
-      "63 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "63 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 63,
-    "waiting_count": null,
-    "recency_signal": "63 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
+    "channel": "Yahoo Finance",
     "position": 3,
-    "title": "🔴PSG VS Bayern LIVE: Paris Saint-Germain vs Bayern Munich in 2026 UEFA Champions League Semis | N18G",
-    "url": "https://www.youtube.com/watch?v=DwF8m3PJFUo",
-    "thumbnail_url": "https://i.ytimg.com/vi/DwF8m3PJFUo/hqdefault.jpg?v=69fb5deb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApuFO_-mIsVbMLfQR0dHX_yq59oQ",
-    "badge_text": "LIVE",
+    "title": "Daily Market Coverage May 7, 2026 9AM-11AM (ET) | Yahoo Finance",
+    "url": "https://www.youtube.com/watch?v=frtl1lJwDlo",
+    "thumbnail_url": "https://i.ytimg.com/vi/frtl1lJwDlo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGufNVD51MKIt1EyXLLZx18R6FOw",
+    "badge_text": "UPCOMING",
     "metadata_texts": [
-      "25 watching",
-      "25 watching"
+      "1 waiting",
+      "1 waiting"
     ],
     "overlay_texts": [
-      "LIVE"
+      "Upcoming"
     ],
-    "viewer_count_text": "25 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 25,
-    "waiting_count": null,
-    "recency_signal": "25 watching | LIVE"
+    "viewer_count_text": "",
+    "waiting_count_text": "1 waiting",
+    "scheduled_at_text": "2026-05-07T13:00:00+00:00",
+    "collected_at_iso": "2026-05-06T22:52:11+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "upcoming",
+    "viewer_count": null,
+    "waiting_count": 1,
+    "recency_signal": "1 waiting | 2026-05-07T13:00:00+00:00 | UPCOMING"
   },
   {
-    "channel": "CNBC-TV18",
-    "position": 8,
-    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Assembly Elections |Share Market Updates | Nifty & Sensex",
-    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
-    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "13 watching",
-      "13 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "13 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 13,
-    "waiting_count": null,
-    "recency_signal": "13 watching | LIVE"
-  },
-  {
-    "channel": "CNBC-TV18",
+    "channel": "Yahoo Finance",
     "position": 1,
-    "title": "🔴PSG vs Bayern Munich LIVE: UEFA Champions League Semi-final Match LIVE | Harry Kane | UCL | N18G",
-    "url": "https://www.youtube.com/watch?v=cVe5fUqrdPM",
-    "thumbnail_url": "https://i.ytimg.com/vi/cVe5fUqrdPM/hqdefault.jpg?v=69fb8b29&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN4is-hquahu1YPZLTyr1jjh23zQ",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "4 watching",
-      "4 watching"
-    ],
+    "title": "Daily Market Coverage May 7, 2026 3PM-5PM (ET) | Yahoo Finance",
+    "url": "https://www.youtube.com/watch?v=kni1c2subv4",
+    "thumbnail_url": "https://i.ytimg.com/vi/kni1c2subv4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ05lVQ9kyOaQbFse6iL49sriLIQ",
+    "badge_text": "UPCOMING",
+    "metadata_texts": [],
     "overlay_texts": [
-      "LIVE"
+      "Upcoming"
     ],
-    "viewer_count_text": "4 watching",
+    "viewer_count_text": "",
     "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T21:54:56+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 4,
+    "scheduled_at_text": "2026-05-07T19:00:00+00:00",
+    "collected_at_iso": "2026-05-06T22:52:11+00:00",
+    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "status": "upcoming",
+    "viewer_count": null,
     "waiting_count": null,
-    "recency_signal": "4 watching | LIVE"
+    "recency_signal": "2026-05-07T19:00:00+00:00 | UPCOMING"
   }
 ]
