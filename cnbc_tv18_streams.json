@@ -1,154 +1,130 @@
 [
   {
-    "channel": "Yahoo Finance",
+    "channel": "CNBC-TV18",
     "position": 4,
-    "title": "Yahoo Finance 24/7 Stream: Daily Market Coverage & more",
-    "url": "https://www.youtube.com/watch?v=KQp-e_XQnDE",
-    "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hqdefault.jpg?v=69c6a8cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptFbdoELleHqR1dGIUO1qMYRzfA",
+    "title": "🔴TVK Vijay LIVE: Thalapathy Vijay's First Statement Post TVK Win | Tamil Nadu Government Formation",
+    "url": "https://www.youtube.com/watch?v=OeA-JdFIaXg",
+    "thumbnail_url": "https://i.ytimg.com/vi/OeA-JdFIaXg/hqdefault.jpg?v=69fa0c8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGe5xi1ze-YjH2phrVpwzhutRmyw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "132 watching",
-      "132 watching"
+      "777 watching",
+      "777 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "132 watching",
+    "viewer_count_text": "777 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T02:36:35+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "collected_at_iso": "2026-05-06T05:55:40+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 132,
+    "viewer_count": 777,
     "waiting_count": null,
-    "recency_signal": "132 watching | LIVE"
+    "recency_signal": "777 watching | LIVE"
   },
   {
-    "channel": "Zee Business",
-    "position": 4,
-    "title": "Anil Singhvi LIVE: आज कहां करें इन्वेस्ट | Stock Market Update | Business & Finance | Zee Business",
-    "url": "https://www.youtube.com/watch?v=XozXbA7YUwk",
-    "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hqdefault.jpg?v=699a76de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-0luCh50jWdd5RwdqQvs0bABFFw",
+    "channel": "CNBC-TV18",
+    "position": 6,
+    "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE | Assembly Elections |Share Market Updates | Nifty & Sensex",
+    "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
+    "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hqdefault.jpg?v=69c9de2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdaCa1s-xAZ0PtKwLFo3rMUvaWw",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "197 watching",
-      "197 watching"
+      "311 watching",
+      "311 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "197 watching",
+    "viewer_count_text": "311 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T02:36:26+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "collected_at_iso": "2026-05-06T05:55:40+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 197,
+    "viewer_count": 311,
     "waiting_count": null,
-    "recency_signal": "197 watching | LIVE"
+    "recency_signal": "311 watching | LIVE"
   },
   {
-    "channel": "Zee Business",
+    "channel": "CNBC-TV18",
     "position": 2,
-    "title": "First Trade 6th May 2026 : Zee Business Live | Share Market Live Updates | Stock Market News",
-    "url": "https://www.youtube.com/watch?v=QaKtTaEhvB4",
-    "thumbnail_url": "https://i.ytimg.com/vi/QaKtTaEhvB4/hqdefault.jpg?v=69fa95d6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMJUVsUPeNf5NHhoQ8hLzVncMHNg",
+    "title": "🔴Tamil Nadu Government Formation LIVE: Congress Joins TVK's Vijay | DMK Vs Congress | TN Elections",
+    "url": "https://www.youtube.com/watch?v=vIYoTGRGZp8",
+    "thumbnail_url": "https://i.ytimg.com/vi/vIYoTGRGZp8/hqdefault.jpg?v=69facd90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALFQEj3XzFnxJVYffBez5WcbtLlQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "24,297 watching",
-      "24K watching"
+      "218 watching",
+      "218 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "24,297 watching",
+    "viewer_count_text": "218 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T02:36:26+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "collected_at_iso": "2026-05-06T05:55:40+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 24,
+    "viewer_count": 218,
     "waiting_count": null,
-    "recency_signal": "24,297 watching | LIVE | 24K watching"
+    "recency_signal": "218 watching | LIVE"
   },
   {
-    "channel": "Zee Business",
+    "channel": "CNBC-TV18",
+    "position": 5,
+    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope on World Peace | N18G",
+    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
+    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hqdefault.jpg?v=69c9d671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26IutzjYXaOPUGiLPkjQ7-35tkg",
+    "badge_text": "LIVE",
+    "metadata_texts": [
+      "83 watching",
+      "83 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "83 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-05-06T05:55:40+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 83,
+    "waiting_count": null,
+    "recency_signal": "83 watching | LIVE"
+  },
+  {
+    "channel": "CNBC-TV18",
     "position": 3,
-    "title": "Zee Business Live | Anil Singhvi | Share Market Live Updates | Stock Market News",
-    "url": "https://www.youtube.com/watch?v=JHh2HgJnBZI",
-    "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hqdefault.jpg?v=699a7727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45ia492hdOW4IC8tUZUvswXL2rA",
+    "title": "Stock Market LIVE Updates: Nifty & Sensex | Trump | Assembly Elections| Crude Oil Price | May 6th",
+    "url": "https://www.youtube.com/watch?v=VB1DdVjcxfs",
+    "thumbnail_url": "https://i.ytimg.com/vi/VB1DdVjcxfs/hqdefault.jpg?v=69fa9f74&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwybAdhdSrtPNMxKncF6pHtVzAgQ",
     "badge_text": "LIVE",
     "metadata_texts": [
-      "2,322 watching",
-      "2.3K watching"
+      "1,951 watching",
+      "1.9K watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "2,322 watching",
+    "viewer_count_text": "1,951 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T02:36:26+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2,322 watching | LIVE | 2.3K watching"
-  },
-  {
-    "channel": "Zee Business",
-    "position": 1,
-    "title": "Share Bazaar Live और First Trade में बाजार का शुरुआती एक्शन Anil Singhvi के साथ 6th May 2026",
-    "url": "https://www.youtube.com/watch?v=1OvkXKLdu5E",
-    "thumbnail_url": "https://i.ytimg.com/vi/1OvkXKLdu5E/hqdefault.jpg?v=69faa778&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7Fu3K7yYtjGWD7aJlBxJeSZqLIg",
-    "badge_text": "LIVE",
-    "metadata_texts": [
-      "1,786 watching",
-      "1.7K watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "1,786 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-05-06T02:36:26+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "collected_at_iso": "2026-05-06T05:55:40+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
     "viewer_count": 1,
     "waiting_count": null,
-    "recency_signal": "1,786 watching | LIVE | 1.7K watching"
+    "recency_signal": "1,951 watching | LIVE | 1.9K watching"
   },
   {
-    "channel": "Yahoo Finance",
+    "channel": "CNBC-TV18",
     "position": 1,
-    "title": "Daily Market Coverage May 6, 2026 3PM-5PM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=0appCEmWCAA",
-    "thumbnail_url": "https://i.ytimg.com/vi/0appCEmWCAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg6J4hUw4Tj4iWOZdIlwnH6VS66Q",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [
-      "1 waiting",
-      "1 waiting"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "1 waiting",
-    "scheduled_at_text": "2026-05-06T19:00:00+00:00",
-    "collected_at_iso": "2026-05-06T02:36:35+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 1,
-    "recency_signal": "1 waiting | 2026-05-06T19:00:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 2,
-    "title": "LIVE: The Daily Wolf with Scott Melker",
-    "url": "https://www.youtube.com/watch?v=4hBlan97_O8",
-    "thumbnail_url": "https://i.ytimg.com/vi/4hBlan97_O8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCT6ZMGYxmea9OarM1IEyUjIBr_6g",
+    "title": "LIVE | Future Female Forward | Season 4 | The Mumbai Gala | Leadership, Opportunity & Impact | N18L",
+    "url": "https://www.youtube.com/watch?v=KsUyvs4KDgc",
+    "thumbnail_url": "https://i.ytimg.com/vi/KsUyvs4KDgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIPwTTLr8_6dtDRnz5ymiU1J656Q",
     "badge_text": "UPCOMING",
     "metadata_texts": [],
     "overlay_texts": [
@@ -156,33 +132,12 @@
     ],
     "viewer_count_text": "",
     "waiting_count_text": "",
-    "scheduled_at_text": "2026-05-06T16:00:00+00:00",
-    "collected_at_iso": "2026-05-06T02:36:35+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
+    "scheduled_at_text": "2026-05-06T04:10:00+00:00",
+    "collected_at_iso": "2026-05-06T05:55:40+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "upcoming",
     "viewer_count": null,
     "waiting_count": null,
-    "recency_signal": "2026-05-06T16:00:00+00:00 | UPCOMING"
-  },
-  {
-    "channel": "Yahoo Finance",
-    "position": 3,
-    "title": "Daily Market Coverage May 6, 2026 9AM-11AM (ET) | Yahoo Finance",
-    "url": "https://www.youtube.com/watch?v=QDmsa47eTho",
-    "thumbnail_url": "https://i.ytimg.com/vi/QDmsa47eTho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDns6RVuxQWo9md6x2D9xCQMTXZ2w",
-    "badge_text": "UPCOMING",
-    "metadata_texts": [],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "",
-    "scheduled_at_text": "2026-05-06T13:00:00+00:00",
-    "collected_at_iso": "2026-05-06T02:36:35+00:00",
-    "source_page": "https://www.youtube.com/@YahooFinance/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": null,
-    "recency_signal": "2026-05-06T13:00:00+00:00 | UPCOMING"
+    "recency_signal": "2026-05-06T04:10:00+00:00 | UPCOMING"
   }
 ]
