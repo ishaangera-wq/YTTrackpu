@@ -1,30 +1,59 @@
 [
   {
     "channel": "CNBC-TV18",
-    "position": 7,
-    "title": "🔴FRANCE Protest LIVE: France Erupts in Protest Over Rising Costs | Macron Under Pressure | N18G",
-    "url": "https://www.youtube.com/watch?v=hHLxrg99pSE",
-    "thumbnail_url": "https://i.ytimg.com/vi/hHLxrg99pSE/hq720.jpg?v=6ad3c23a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7v7MC-57K7AEbYBu2OpXiT2ZQw",
+    "position": 3,
+    "title": "🔴Victoria’s Secret Fashion Show LIVE: Pink Carpet of Biggest Night In Fashion Entertainment | N18G",
+    "url": "https://www.youtube.com/watch?v=UFJIZvVjKAw",
+    "thumbnail_url": "https://i.ytimg.com/vi/UFJIZvVjKAw/hq720.jpg?v=6ad50e29&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABoRcExxxeJ1L8jAGxi8m3oktlSw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "1.4K watching"
+      "87K watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1.4K watching",
+    "viewer_count_text": "87K watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 1400,
+    "viewer_count": 87000,
     "waiting_count": null,
-    "recency_signal": "1.4K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "87K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 1,
+    "title": "🔴Victoria’s Secret 2026 LIVE: Fashion, Angels & Runway Glamour | Victoria Secret Supermodels | N18G",
+    "url": "https://www.youtube.com/watch?v=qJNnPuD3jks",
+    "thumbnail_url": "https://i.ytimg.com/vi/qJNnPuD3jks/hq720.jpg?v=6ad548d9&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvY2nae9Zi6pzDX4E_DcJ5gkGV-w",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "15K watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "15K watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 15000,
+    "waiting_count": null,
+    "recency_signal": "15K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -36,372 +65,428 @@
     "thumbnail_url": "https://i.ytimg.com/vi/8OaIYrgIlT0/hq720.jpg?v=6ad4f8d7&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLUMMNEfmcNa6TQ_OQWcXQrXPavA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "1.2K watching"
+      "1.4K watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1.2K watching",
+    "viewer_count_text": "1.4K watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 1200,
+    "viewer_count": 1400,
     "waiting_count": null,
-    "recency_signal": "1.2K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "1.4K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
-    "position": 11,
-    "title": "Albania Protests LIVE: Anti-Government Protest by Students in Tirana | Riot Police vs Students |N18G",
-    "url": "https://www.youtube.com/watch?v=m6Greaolde4",
-    "thumbnail_url": "https://i.ytimg.com/vi/m6Greaolde4/hq720.jpg?v=6ad42eaa&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfzHytjj8TRsRf_5_RjF5gkrpWvw",
+    "position": 7,
+    "title": "🔴FRANCE Protest LIVE: France Erupts in Protest Over Rising Costs | Macron Under Pressure | N18G",
+    "url": "https://www.youtube.com/watch?v=hHLxrg99pSE",
+    "thumbnail_url": "https://i.ytimg.com/vi/hHLxrg99pSE/hq720.jpg?v=6ad3c23a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7v7MC-57K7AEbYBu2OpXiT2ZQw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "592 watching"
+      "628 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "592 watching",
+    "viewer_count_text": "628 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 592,
+    "viewer_count": 628,
     "waiting_count": null,
-    "recency_signal": "592 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "628 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
     "position": 9,
-    "title": "🔴Albania Protests LIVE: Violent Protests Erupt in Albania | Police Clash With Demonstrators | N18G",
-    "url": "https://www.youtube.com/watch?v=EES0R6X6R1Y",
-    "thumbnail_url": "https://i.ytimg.com/vi/EES0R6X6R1Y/hq720.jpg?v=6ad371d5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwaQ1nzizFbyXtoUzGfbmhuwSc6g",
+    "title": "Albania Protests LIVE: Anti-Government Protest by Students in Tirana | Riot Police vs Students |N18G",
+    "url": "https://www.youtube.com/watch?v=m6Greaolde4",
+    "thumbnail_url": "https://i.ytimg.com/vi/m6Greaolde4/hq720.jpg?v=6ad42eaa&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfzHytjj8TRsRf_5_RjF5gkrpWvw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "211 watching"
+      "492 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "211 watching",
+    "viewer_count_text": "492 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 211,
+    "viewer_count": 492,
     "waiting_count": null,
-    "recency_signal": "211 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "492 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
-    "position": 15,
-    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope Leo Lung Cancer | N18G",
-    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
-    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hq720.jpg?v=69c9d671&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkXQkVstIbnk_Ihiho0m06pHwbVA",
+    "position": 11,
+    "title": "Philippines Senate LIVE - Impeachment Trial of VP Sara Duterte - DAY 40 (Oct. 19, 2026) | N18G",
+    "url": "https://www.youtube.com/watch?v=_2AN_iwYETs",
+    "thumbnail_url": "https://i.ytimg.com/vi/_2AN_iwYETs/hq720.jpg?v=6aceddd9&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeMJjATS1DfvnytWBEJMdSRMzz7g",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "113 watching"
+      "78 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "113 watching",
+    "viewer_count_text": "78 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 113,
+    "viewer_count": 78,
     "waiting_count": null,
-    "recency_signal": "113 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "78 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
     "position": 13,
-    "title": "Philippines Senate LIVE - Impeachment Trial of VP Sara Duterte - DAY 40 (Oct. 19, 2026) | N18G",
-    "url": "https://www.youtube.com/watch?v=_2AN_iwYETs",
-    "thumbnail_url": "https://i.ytimg.com/vi/_2AN_iwYETs/hq720.jpg?v=6aceddd9&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeMJjATS1DfvnytWBEJMdSRMzz7g",
+    "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope Leo Lung Cancer | N18G",
+    "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
+    "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hq720.jpg?v=69c9d671&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkXQkVstIbnk_Ihiho0m06pHwbVA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "79 watching"
+      "73 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "79 watching",
+    "viewer_count_text": "73 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 79,
+    "viewer_count": 73,
     "waiting_count": null,
-    "recency_signal": "79 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "73 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
-    "position": 17,
+    "position": 15,
     "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE Updates | Nifty & Sensex Live | Share Market | Business News",
     "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
     "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hq720.jpg?v=69c9de2e&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoq2E2FqirFzieXbH8_6tA0igN4w",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "5 watching"
+      "9 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "5 watching",
+    "viewer_count_text": "9 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 5,
+    "viewer_count": 9,
     "waiting_count": null,
-    "recency_signal": "5 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "9 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 7,
-    "title": "🔴Sara Duterte Impeachment Trial LIVE ‘No Adjudicative Purpose Anymore’ in Presenting Evidence | N18G",
-    "url": "https://www.youtube.com/watch?v=_4lehVK_b3k",
-    "thumbnail_url": "https://i.ytimg.com/vi/_4lehVK_b3k/hq720.jpg?v=6ad518d2&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_xiGUZewlkt5teE3Q0I-BFgNl6A",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "37 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "37 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 37,
-    "waiting_count": null,
-    "recency_signal": "37 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 11,
-    "title": "Albania Student Protests LIVE: Demonstrations Against Government in Tirana | Riot Police vs Students",
-    "url": "https://www.youtube.com/watch?v=hiChDZWrcuM",
-    "thumbnail_url": "https://i.ytimg.com/vi/hiChDZWrcuM/hq720.jpg?v=6ad50de1&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi6dG3PH4IlAtvxrb5cHL-eQFbUg",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "20 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "20 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 20,
-    "waiting_count": null,
-    "recency_signal": "20 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
     "position": 3,
-    "title": "Albania Protests LIVE: Violent Protests Erupt in Albania | Police Clash With Demonstrators | N18G",
-    "url": "https://www.youtube.com/watch?v=YLwc_iMs-0c",
-    "thumbnail_url": "https://i.ytimg.com/vi/YLwc_iMs-0c/hq720.jpg?v=6ad51dec&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIp1xPGNHTfOcuiDA2Ry7dkkiGGQ",
+    "title": "Victoria’s Secret Runway Show 2026 LIVE | Fashion, Style & Glamour | Victoria’s Secret 2026 LIVE",
+    "url": "https://www.youtube.com/watch?v=NTPmjTvp414",
+    "thumbnail_url": "https://i.ytimg.com/vi/NTPmjTvp414/hq720.jpg?v=6ad52f23&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3TAZ71EXi46WGvywS0HtwQLVYOA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "18 watching"
+      "878 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "18 watching",
+    "viewer_count_text": "878 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
-    "viewer_count": 18,
+    "viewer_count": 878,
     "waiting_count": null,
-    "recency_signal": "18 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "878 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
-    "position": 5,
+    "position": 1,
+    "title": "Victoria’s Secret Fashion Show 2026 LIVE:Models & Behind-the-Scenes Moments | Victoria’s Secret LIVE",
+    "url": "https://www.youtube.com/watch?v=eJRJteEyVO0",
+    "thumbnail_url": "https://i.ytimg.com/vi/eJRJteEyVO0/hq720.jpg?v=6ad531f5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUv24IejzO6FjelqPrtpRakZiQog",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "499 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "499 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 499,
+    "waiting_count": null,
+    "recency_signal": "499 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 7,
     "title": "Philippines Senate LIVE: Sara Duterte Impeachment Trial | Day 41 | 3 Charges Withdrawn? Major Update",
     "url": "https://www.youtube.com/watch?v=_L4-61Mspx0",
     "thumbnail_url": "https://i.ytimg.com/vi/_L4-61Mspx0/hq720.jpg?v=6ad51992&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcyp1w5uUJfVYSTUxTVunTG_wDJQ",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "18 watching"
+      "35 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "18 watching",
+    "viewer_count_text": "35 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
-    "viewer_count": 18,
+    "viewer_count": 35,
     "waiting_count": null,
-    "recency_signal": "18 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "35 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
     "position": 9,
-    "title": "🔴France Erupts LIVE: Angry Crowds Hit Streets Over Rising Costs | Macron Under Fire",
-    "url": "https://www.youtube.com/watch?v=bpB55nDLDSk",
-    "thumbnail_url": "https://i.ytimg.com/vi/bpB55nDLDSk/hq720.jpg?v=6ad50f7b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUNm5IyQTDKJ8pwWgmY62t07PsqQ",
+    "title": "🔴Sara Duterte Impeachment Trial LIVE ‘No Adjudicative Purpose Anymore’ in Presenting Evidence | N18G",
+    "url": "https://www.youtube.com/watch?v=_4lehVK_b3k",
+    "thumbnail_url": "https://i.ytimg.com/vi/_4lehVK_b3k/hq720.jpg?v=6ad518d2&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_xiGUZewlkt5teE3Q0I-BFgNl6A",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "15 watching"
+      "34 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "15 watching",
+    "viewer_count_text": "34 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
-    "viewer_count": 15,
+    "viewer_count": 34,
     "waiting_count": null,
-    "recency_signal": "15 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "34 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
-    "position": 13,
-    "title": "🔴 France Protests LIVE | Rising Costs Spark Nationwide Unrest as Macron Faces Pressure | N18G",
-    "url": "https://www.youtube.com/watch?v=-LSZWfnTTT0",
-    "thumbnail_url": "https://i.ytimg.com/vi/-LSZWfnTTT0/hq720.jpg?v=6ad50ab3&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6pthiBQIWmgDu8SuluJeRuXpB8w",
+    "position": 11,
+    "title": "🔴France Erupts LIVE: Angry Crowds Hit Streets Over Rising Costs | Macron Under Fire",
+    "url": "https://www.youtube.com/watch?v=bpB55nDLDSk",
+    "thumbnail_url": "https://i.ytimg.com/vi/bpB55nDLDSk/hq720.jpg?v=6ad50f7b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUNm5IyQTDKJ8pwWgmY62t07PsqQ",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "1 watching"
+      "13 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1 watching",
+    "viewer_count_text": "13 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
-    "viewer_count": 1,
+    "viewer_count": 13,
     "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "13 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
     "position": 15,
-    "title": "LIVE: Donald Trump Holds Rally in Highland Heights Ahead of US Midterm Election | US Politics | N18G",
-    "url": "https://www.youtube.com/watch?v=KZCsHRnIJ6s",
-    "thumbnail_url": "https://i.ytimg.com/vi/KZCsHRnIJ6s/hq720.jpg?v=6ad4b317&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB31FvH99NC8zFH8wo-LRabAJ4y6g",
+    "title": "🔴 France Protests LIVE | Rising Costs Spark Nationwide Unrest as Macron Faces Pressure | N18G",
+    "url": "https://www.youtube.com/watch?v=-LSZWfnTTT0",
+    "thumbnail_url": "https://i.ytimg.com/vi/-LSZWfnTTT0/hq720.jpg?v=6ad50ab3&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6pthiBQIWmgDu8SuluJeRuXpB8w",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "1 watching"
+      "7 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1 watching",
+    "viewer_count_text": "7 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 7,
+    "waiting_count": null,
+    "recency_signal": "7 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 5,
+    "title": "Albania Protests LIVE: Violent Protests Erupt in Albania | Police Clash With Demonstrators | N18G",
+    "url": "https://www.youtube.com/watch?v=YLwc_iMs-0c",
+    "thumbnail_url": "https://i.ytimg.com/vi/YLwc_iMs-0c/hq720.jpg?v=6ad51dec&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIp1xPGNHTfOcuiDA2Ry7dkkiGGQ",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "6 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "6 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 6,
+    "waiting_count": null,
+    "recency_signal": "6 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 13,
+    "title": "Albania Student Protests LIVE: Demonstrations Against Government in Tirana | Riot Police vs Students",
+    "url": "https://www.youtube.com/watch?v=hiChDZWrcuM",
+    "thumbnail_url": "https://i.ytimg.com/vi/hiChDZWrcuM/hq720.jpg?v=6ad50de1&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi6dG3PH4IlAtvxrb5cHL-eQFbUg",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "4 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "4 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 4,
+    "waiting_count": null,
+    "recency_signal": "4 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 17,
+    "title": "LIVE: Donald Trump Holds Rally in Highland Heights Ahead of US Midterm Election | US Politics | N18G",
+    "url": "https://www.youtube.com/watch?v=KZCsHRnIJ6s",
+    "thumbnail_url": "https://i.ytimg.com/vi/KZCsHRnIJ6s/hq720.jpg?v=6ad4b317&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB31FvH99NC8zFH8wo-LRabAJ4y6g",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "1 watching now",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:27+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
     "viewer_count": 1,
     "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "1 watching now | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "viewer_count_source": "watch_page",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:27+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -413,53 +498,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/A5nIS_RQ6d0/hq720.jpg?v=6ad50e9c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvZj7Qbc93TzgFYm_yLHVCc-CuYA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "41 watching"
+      "24 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "41 watching",
+    "viewer_count_text": "24 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 41,
+    "viewer_count": 24,
     "waiting_count": null,
-    "recency_signal": "41 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "recency_signal": "24 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 5,
-    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
-    "url": "https://www.youtube.com/watch?v=hVStGphCrYc",
-    "thumbnail_url": "https://i.ytimg.com/vi/hVStGphCrYc/hq720.jpg?v=6ad4ca56&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt_8sryuWJWIp5mO8f3T8iFsiGOA",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "14 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "14 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 14,
-    "waiting_count": null,
-    "recency_signal": "14 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -471,53 +527,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/4oxcQAgvd54/hq720.jpg?v=6ad4bfdb&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpFaOq3AWm091PWUc9hH4t2cJhdg",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "12 watching"
+      "15 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "12 watching",
+    "viewer_count_text": "15 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 12,
+    "viewer_count": 15,
     "waiting_count": null,
-    "recency_signal": "12 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "recency_signal": "15 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 3,
-    "title": "'Abdul linked to Muslim Brotherhood network!': Cruz drops shocking El-Sayed claim at Senate hearing",
-    "url": "https://www.youtube.com/watch?v=oP7-2huNnUM",
-    "thumbnail_url": "https://i.ytimg.com/vi/oP7-2huNnUM/hq720.jpg?v=6ad4e310&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL3_p0O22oP46qAfihcg6_Fz8m0g",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "9 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "9 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 9,
-    "waiting_count": null,
-    "recency_signal": "9 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -529,6 +556,35 @@
     "thumbnail_url": "https://i.ytimg.com/vi/zClY7UmBb1g/hq720.jpg?v=6ad1147b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0uncPHtZ_DD_3yNL3ERmKbPF1Ig",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
+      "14 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "14 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 14,
+    "waiting_count": null,
+    "recency_signal": "14 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 3,
+    "title": "'Abdul linked to Muslim Brotherhood network!': Cruz drops shocking El-Sayed claim at Senate hearing",
+    "url": "https://www.youtube.com/watch?v=oP7-2huNnUM",
+    "thumbnail_url": "https://i.ytimg.com/vi/oP7-2huNnUM/hq720.jpg?v=6ad4e310&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL3_p0O22oP46qAfihcg6_Fz8m0g",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
       "6 watching"
     ],
     "overlay_texts": [
@@ -537,16 +593,45 @@
     "viewer_count_text": "6 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 6,
     "waiting_count": null,
     "recency_signal": "6 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 5,
+    "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
+    "url": "https://www.youtube.com/watch?v=hVStGphCrYc",
+    "thumbnail_url": "https://i.ytimg.com/vi/hVStGphCrYc/hq720.jpg?v=6ad4ca56&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt_8sryuWJWIp5mO8f3T8iFsiGOA",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "4 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "4 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 4,
+    "waiting_count": null,
+    "recency_signal": "4 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -557,25 +642,23 @@
     "url": "https://www.youtube.com/watch?v=DIhVqmkozIk",
     "thumbnail_url": "https://i.ytimg.com/vi/DIhVqmkozIk/hq720.jpg?v=6ad3b891&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC36cPJzdNtv2D3cZwvmnWkMIcrZw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "2 watching"
-    ],
+    "metadata_texts": [],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "2 watching",
+    "viewer_count_text": "1 watching now",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 2,
+    "viewer_count": 1,
     "waiting_count": null,
-    "recency_signal": "2 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "recency_signal": "1 watching now | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:29+00:00",
     "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "viewer_count_source": "watch_page",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -587,24 +670,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hq720.jpg?v=69c6a8cc&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQr6d_KsRb6PCTNa99EA2WD_mBTw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "42 watching"
+      "43 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "42 watching",
+    "viewer_count_text": "43 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:58+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 42,
+    "viewer_count": 43,
     "waiting_count": null,
-    "recency_signal": "42 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "recency_signal": "43 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -616,24 +699,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/fK439NUqswg/hq720.jpg?v=6ad4eac7&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8NXy6SgvtOP06zJhFhxicSfQg8A",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "77 watching"
+      "24 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "77 watching",
+    "viewer_count_text": "24 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 77,
+    "viewer_count": 24,
     "waiting_count": null,
-    "recency_signal": "77 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "24 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -645,24 +728,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/-8c29XLUJoY/hq720.jpg?v=6ad4cacc&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2_MrVnpumTTkRnxnUn1XMtrZw0g",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "20 watching"
+      "13 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "20 watching",
+    "viewer_count_text": "13 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 20,
+    "viewer_count": 13,
     "waiting_count": null,
-    "recency_signal": "20 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "13 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -674,24 +757,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hq720.jpg?v=6ab5d9da&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBb3rTh3Q3M5oIDNjJ-JVJVLwGug",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "13 watching"
+      "12 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "13 watching",
+    "viewer_count_text": "12 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 13,
+    "viewer_count": 12,
     "waiting_count": null,
-    "recency_signal": "13 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "12 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -703,24 +786,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/kJdg87M-Jsw/hq720.jpg?v=6ad17748&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG0Z0Sa2REF2dGhVNG5D94qk4vCg",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "7 watching"
+      "6 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "7 watching",
+    "viewer_count_text": "6 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 7,
+    "viewer_count": 6,
     "waiting_count": null,
-    "recency_signal": "7 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "6 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -732,24 +815,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/n56hI7MRfW8/hq720.jpg?v=6ad4fc1e&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Ls_r0n2hyXV_tUQY64_BsG0frA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "6 watching"
+      "3 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "6 watching",
+    "viewer_count_text": "3 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 6,
+    "viewer_count": 3,
     "waiting_count": null,
-    "recency_signal": "6 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "recency_signal": "3 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -760,114 +843,26 @@
     "url": "https://www.youtube.com/watch?v=XozXbA7YUwk",
     "thumbnail_url": "https://i.ytimg.com/vi/XozXbA7YUwk/hq720.jpg?v=6ab5d8c0&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPadBT1MuQbXJj7T3_hkr-Y3Slng",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [],
+    "metadata_texts": [
+      "1 watching"
+    ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1 watching now",
+    "viewer_count_text": "1 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
+    "collected_at_iso": "2026-10-18T22:44:28+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
     "viewer_count": 1,
     "waiting_count": null,
-    "recency_signal": "1 watching now | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:58+00:00",
+    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "viewer_count_status": "available",
-    "viewer_count_source": "watch_page",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-18T22:44:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "🔴Victoria’s Secret 2026 LIVE: Fashion, Angels & Runway Glamour | Victoria Secret Supermodels | N18G",
-    "url": "https://www.youtube.com/watch?v=qJNnPuD3jks",
-    "thumbnail_url": "https://i.ytimg.com/vi/qJNnPuD3jks/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvY2nae9Zi6pzDX4E_DcJ5gkGV-w",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
-    "metadata_texts": [
-      "169 waiting",
-      "Scheduled for 10/18/26, 3:00 PM"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "169 waiting",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 169,
-    "recency_signal": "169 waiting | THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT | Scheduled for 10/18/26, 3:00 PM",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "viewer_count_status": "not_applicable",
-    "viewer_count_source": "",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "waiting_count_status": "available",
-    "waiting_count_source": "channel_listing"
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
-    "title": "🔴Victoria’s Secret Fashion Show LIVE: Pink Carpet of Biggest Night In Fashion Entertainment | N18G",
-    "url": "https://www.youtube.com/watch?v=UFJIZvVjKAw",
-    "thumbnail_url": "https://i.ytimg.com/vi/UFJIZvVjKAw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABoRcExxxeJ1L8jAGxi8m3oktlSw",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
-    "metadata_texts": [
-      "163 waiting",
-      "Scheduled for 10/18/26, 1:30 PM"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "163 waiting",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 163,
-    "recency_signal": "163 waiting | THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT | Scheduled for 10/18/26, 1:30 PM",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "viewer_count_status": "not_applicable",
-    "viewer_count_source": "",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "waiting_count_status": "available",
-    "waiting_count_source": "channel_listing"
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 1,
-    "title": "🔴Victoria’s Secret Fashion Show 2026 LIVE: Reaction live The Victoria’s Secret Fashion Show 2026",
-    "url": "https://www.youtube.com/watch?v=PC1i7aCK5xU",
-    "thumbnail_url": "https://i.ytimg.com/vi/PC1i7aCK5xU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLwSukvHZQtTNxgw5tZ5-s5rUpWA",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
-    "metadata_texts": [
-      "10 waiting",
-      "Scheduled for 10/18/26, 12:07 PM"
-    ],
-    "overlay_texts": [
-      "Upcoming"
-    ],
-    "viewer_count_text": "",
-    "waiting_count_text": "10 waiting",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-18T20:02:57+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "upcoming",
-    "viewer_count": null,
-    "waiting_count": 10,
-    "recency_signal": "10 waiting | THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT | Scheduled for 10/18/26, 12:07 PM",
-    "viewer_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "viewer_count_status": "not_applicable",
-    "viewer_count_source": "",
-    "waiting_count_checked_at_iso": "2026-10-18T20:02:57+00:00",
-    "waiting_count_status": "available",
-    "waiting_count_source": "channel_listing"
   }
 ]
