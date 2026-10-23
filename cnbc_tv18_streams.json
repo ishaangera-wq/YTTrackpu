@@ -1,358 +1,271 @@
 [
   {
     "channel": "CNBC-TV18",
-    "position": 5,
+    "position": 1,
+    "title": "Stock Market LIVE Updates: Nifty & Sensex Live | Jio IPO | Crude Oil Price | Oct 23rd | Trump News",
+    "url": "https://www.youtube.com/watch?v=-N1fLNO0u_c",
+    "thumbnail_url": "https://i.ytimg.com/vi/-N1fLNO0u_c/hq720.jpg?v=6adabfa5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPp16LP66kYKO_RWO7LsG_j4KNHA",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "843 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "843 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
+    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
+    "status": "live",
+    "viewer_count": 843,
+    "waiting_count": null,
+    "recency_signal": "843 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "CNBC-TV18",
+    "position": 3,
     "title": "Philippines Senate LIVE - Impeachment Trial of VP Sara Duterte - DAY 41 (Oct. 23, 2026) | N18G",
     "url": "https://www.youtube.com/watch?v=aicrCqp0Bfo",
     "thumbnail_url": "https://i.ytimg.com/vi/aicrCqp0Bfo/hq720.jpg?v=6ad70711&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIntxrX8k-dsely1rU43PAVUNfug",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "95 watching"
+      "518 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "95 watching",
+    "viewer_count_text": "518 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 95,
+    "viewer_count": 518,
     "waiting_count": null,
-    "recency_signal": "95 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "recency_signal": "518 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
-    "position": 11,
+    "position": 9,
     "title": "CNBC TV18 24x7 LIVE: Stock Market LIVE Updates | Nifty & Sensex Live | Share Market | Business News",
     "url": "https://www.youtube.com/watch?v=1_Ih0JYmkjI",
     "thumbnail_url": "https://i.ytimg.com/vi/1_Ih0JYmkjI/hq720.jpg?v=6ad79ab7&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoq2E2FqirFzieXbH8_6tA0igN4w",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "26 watching"
+      "169 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "26 watching",
+    "viewer_count_text": "169 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 26,
+    "viewer_count": 169,
     "waiting_count": null,
-    "recency_signal": "26 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "recency_signal": "169 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
-    "position": 1,
-    "title": "WATCH LIVE: Kamala Harris Campaigns With Scott Colom At Mississippi Rally | N18L | CNBC TV18",
-    "url": "https://www.youtube.com/watch?v=tdUk7QLGThM",
-    "thumbnail_url": "https://i.ytimg.com/vi/tdUk7QLGThM/hq720.jpg?v=6ada901e&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVsrN1XSZHqqaj_Bv47gJ5ML35CQ",
+    "position": 5,
+    "title": "🔴FRANCE Protest LIVE: France Erupts in Protest Over Rising Costs | Macron Under Pressure | N18G",
+    "url": "https://www.youtube.com/watch?v=hHLxrg99pSE",
+    "thumbnail_url": "https://i.ytimg.com/vi/hHLxrg99pSE/hq720.jpg?v=6ad3c23a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7v7MC-57K7AEbYBu2OpXiT2ZQw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "17 watching"
+      "58 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "17 watching",
+    "viewer_count_text": "58 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 17,
+    "viewer_count": 58,
     "waiting_count": null,
-    "recency_signal": "17 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "recency_signal": "58 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "CNBC-TV18",
     "position": 7,
-    "title": "🔴FRANCE Protest LIVE: France Erupts in Protest Over Rising Costs | Macron Under Pressure | N18G",
-    "url": "https://www.youtube.com/watch?v=hHLxrg99pSE",
-    "thumbnail_url": "https://i.ytimg.com/vi/hHLxrg99pSE/hq720.jpg?v=6ad3c23a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7v7MC-57K7AEbYBu2OpXiT2ZQw",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "5 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "5 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 5,
-    "waiting_count": null,
-    "recency_signal": "5 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 3,
-    "title": "Paris Protests LIVE: Students in Paris Hold New Protest March For Better School Conditions | N18G",
-    "url": "https://www.youtube.com/watch?v=YrSg0lN8BJk",
-    "thumbnail_url": "https://i.ytimg.com/vi/YrSg0lN8BJk/hq720.jpg?v=6ada10fa&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdFs83C4NjIlLJuLUdGitDxOijYw",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "1 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "1 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
-    "status": "live",
-    "viewer_count": 1,
-    "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "CNBC-TV18",
-    "position": 9,
     "title": "Vatican LIVE: Pope Leo Presides Over Holy Mass at St. Peter's Basilica | Pope Leo Lung Cancer | N18G",
     "url": "https://www.youtube.com/watch?v=A2JBODj1vio",
     "thumbnail_url": "https://i.ytimg.com/vi/A2JBODj1vio/hq720.jpg?v=69c9d671&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkXQkVstIbnk_Ihiho0m06pHwbVA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "1 watching"
+      "40 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1 watching",
+    "viewer_count_text": "40 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
     "source_page": "https://www.youtube.com/@CNBC-TV18/streams",
     "status": "live",
-    "viewer_count": 1,
+    "viewer_count": 40,
     "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "recency_signal": "40 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
     "position": 3,
-    "title": "Albania Protests LIVE: Students Rally Against Government in Tirana | Anti-Government Unrest | N18G",
-    "url": "https://www.youtube.com/watch?v=2S35EdKpOq4",
-    "thumbnail_url": "https://i.ytimg.com/vi/2S35EdKpOq4/hq720.jpg?v=6ad9f527&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfvm_esJFmS90rh9PKMMT-hz5wiA",
+    "title": "🔴Philippines Senate LIVE: Sara Duterte Impeachment Showdown Continues | Day 41 (October 23, 2026)",
+    "url": "https://www.youtube.com/watch?v=qltmqy51MiU",
+    "thumbnail_url": "https://i.ytimg.com/vi/qltmqy51MiU/hq720.jpg?v=6adaafc0&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTiD88lQcOg8ELnYsW4z0VGfGcDQ",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "108 watching"
+      "324 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "108 watching",
+    "viewer_count_text": "324 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
-    "viewer_count": 108,
+    "viewer_count": 324,
     "waiting_count": null,
-    "recency_signal": "108 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "recency_signal": "324 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 9,
-    "title": "🔴Sara Duterte Impeachment Trial LIVE Day 41 | 3 Charges Withdrawn? Major Update | (October 22, 2026)",
-    "url": "https://www.youtube.com/watch?v=Ej0eVrzrYj8",
-    "thumbnail_url": "https://i.ytimg.com/vi/Ej0eVrzrYj8/hq720.jpg?v=6ad99f1a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzYg3KdkLR5CXhxRzsPG_XEPbsAg",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "64 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "64 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 64,
-    "waiting_count": null,
-    "recency_signal": "64 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 15,
-    "title": "🔴France Protests LIVE: Nationwide Unrest Erupts Over Rising Costs | Macron Under Pressure | N18G",
-    "url": "https://www.youtube.com/watch?v=j4yp16hK7cw",
-    "thumbnail_url": "https://i.ytimg.com/vi/j4yp16hK7cw/hq720.jpg?v=6ad66bc4&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXUrSIXbmtFNOGAdi_5LqMcQqdkA",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "27 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "27 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 27,
-    "waiting_count": null,
-    "recency_signal": "27 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 11,
-    "title": "🔴France Protests LIVE: Paris Erupts Over Rising Cost of Living | Macron Faces Pressure | N18G",
-    "url": "https://www.youtube.com/watch?v=uxAcPoletWk",
-    "thumbnail_url": "https://i.ytimg.com/vi/uxAcPoletWk/hq720.jpg?v=6ad89536&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUecX2kXfHbmwBt_MZR8wFMJBHLA",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "18 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "18 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 18,
-    "waiting_count": null,
-    "recency_signal": "18 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 5,
-    "title": "Philippines Senate LIVE - Impeachment Trial of VP Sara Duterte - DAY 41 (Oct. 22, 2026) | N18G",
-    "url": "https://www.youtube.com/watch?v=UMsMaqN6728",
-    "thumbnail_url": "https://i.ytimg.com/vi/UMsMaqN6728/hq720.jpg?v=6ad9f2a9&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0KWu61aU1cU8uHNW2ppNrcjeIHw",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "17 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "17 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 17,
-    "waiting_count": null,
-    "recency_signal": "17 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 13,
-    "title": "🔴Albania Protests LIVE: ALBANIA PROTESTSTENSIONS RISE IN TIRANA | Anti-Government Unrest | N18G",
-    "url": "https://www.youtube.com/watch?v=J5lLanfG8KI",
-    "thumbnail_url": "https://i.ytimg.com/vi/J5lLanfG8KI/hq720.jpg?v=6ad7adfa&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZq4jNyeQ82-jLjEDLb-oKiLEmlg",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "16 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "16 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 16,
-    "waiting_count": null,
-    "recency_signal": "16 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Moneycontrol",
     "position": 1,
-    "title": "TROY JACKSON RALLY LIVE: GOP Panics? AOC Joins Troy Jackson on the Trail in Maine",
-    "url": "https://www.youtube.com/watch?v=LwppMak-1BU",
-    "thumbnail_url": "https://i.ytimg.com/vi/LwppMak-1BU/hq720.jpg?v=6ada4c63&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKKc_PTTNBvcRR80_Tq6DSSOtb6g",
+    "title": "Nasdaq dives 2.6% | Brent oil climbs to $113 | Swiggy disappoints in Q2",
+    "url": "https://www.youtube.com/watch?v=WVNh9Ltdc9Q",
+    "thumbnail_url": "https://i.ytimg.com/vi/WVNh9Ltdc9Q/hq720.jpg?v=6adac364&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl8CBnHd9HZlqr5S4fIxY4Guw3aQ",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "112 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "112 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 112,
+    "waiting_count": null,
+    "recency_signal": "112 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 9,
+    "title": "🔴France Protests LIVE: Nationwide Unrest Erupts Over Rising Costs | Macron Under Pressure | N18G",
+    "url": "https://www.youtube.com/watch?v=j4yp16hK7cw",
+    "thumbnail_url": "https://i.ytimg.com/vi/j4yp16hK7cw/hq720.jpg?v=6ad66bc4&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXUrSIXbmtFNOGAdi_5LqMcQqdkA",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "66 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "66 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 66,
+    "waiting_count": null,
+    "recency_signal": "66 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 7,
+    "title": "Albania Protests LIVE: Students Rally Against Government in Tirana | Anti-Government Unrest | N18G",
+    "url": "https://www.youtube.com/watch?v=2S35EdKpOq4",
+    "thumbnail_url": "https://i.ytimg.com/vi/2S35EdKpOq4/hq720.jpg?v=6ad9f527&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfvm_esJFmS90rh9PKMMT-hz5wiA",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "39 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "39 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
+    "source_page": "https://www.youtube.com/@moneycontrol/streams",
+    "status": "live",
+    "viewer_count": 39,
+    "waiting_count": null,
+    "recency_signal": "39 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Moneycontrol",
+    "position": 5,
+    "title": "LIVE: Donald Trump Holds Rally in Iowa Ahead of US Midterm Elections | US Politics | N18G",
+    "url": "https://www.youtube.com/watch?v=axsTBxJnKk4",
+    "thumbnail_url": "https://i.ytimg.com/vi/axsTBxJnKk4/hq720.jpg?v=6adaadec&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-xt-FRw2xmHcbjfTCuKADwjIWAA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [],
     "overlay_texts": [
@@ -361,74 +274,16 @@
     "viewer_count_text": "1 watching now",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
+    "collected_at_iso": "2026-10-23T03:16:28+00:00",
     "source_page": "https://www.youtube.com/@moneycontrol/streams",
     "status": "live",
     "viewer_count": 1,
     "waiting_count": null,
     "recency_signal": "1 watching now | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "watch_page",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Moneycontrol",
-    "position": 7,
-    "title": "🔴 France Protests LIVE | Rising Costs Spark Nationwide Unrest as Macron Faces Pressure | N18G",
-    "url": "https://www.youtube.com/watch?v=BHLgeEoeNW8",
-    "thumbnail_url": "https://i.ytimg.com/vi/BHLgeEoeNW8/hq720.jpg?v=6ad9f195&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY1mrIAFgtkejo1mB3joeP9QuuhQ",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "1 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "1 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:02+00:00",
-    "source_page": "https://www.youtube.com/@moneycontrol/streams",
-    "status": "live",
-    "viewer_count": 1,
-    "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:02+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 1,
-    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
-    "url": "https://www.youtube.com/watch?v=OKQdj62cRCM",
-    "thumbnail_url": "https://i.ytimg.com/vi/OKQdj62cRCM/hq720.jpg?v=6ada3d83&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCww_lMrQYouZOtyL2zAPGpZjn8fg",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "7 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "7 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 7,
-    "waiting_count": null,
-    "recency_signal": "7 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:28+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -440,111 +295,24 @@
     "thumbnail_url": "https://i.ytimg.com/vi/382gjoBe83Q/hq720.jpg?v=6ad7a7fe&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLE9bT8_LE7G3Xu3G4lxIff6ovlQ",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "4 watching"
+      "5 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "4 watching",
+    "viewer_count_text": "5 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 4,
+    "viewer_count": 5,
     "waiting_count": null,
-    "recency_signal": "4 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "recency_signal": "5 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 3,
-    "title": "LIVE | Todd Blanche, Kash Patel hold news conference on major law enforcement",
-    "url": "https://www.youtube.com/watch?v=QMPQJ8mPsQw",
-    "thumbnail_url": "https://i.ytimg.com/vi/QMPQJ8mPsQw/hq720.jpg?v=6ada1857&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0H0rtfzvDwiTNUh38kdoAMS9v-Q",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "2 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "2 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 5,
-    "title": "'You narcissist & megalomaniac!': GOP Senators clash with Fauci at fiery 'COVID lies' hearing",
-    "url": "https://www.youtube.com/watch?v=r4c0T94Paj0",
-    "thumbnail_url": "https://i.ytimg.com/vi/r4c0T94Paj0/hq720.jpg?v=6ad8cd75&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDRJqnUOKqRdy-Oj16OmOc_K3L_A",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "2 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "2 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 2,
-    "waiting_count": null,
-    "recency_signal": "2 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "The Economic Times",
-    "position": 7,
-    "title": "'Who was the real Prez?': Autopen scandal explodes at ‘Biden cover-up’ hearing; Senators erupt",
-    "url": "https://www.youtube.com/watch?v=gqL0Rr-YbAc",
-    "thumbnail_url": "https://i.ytimg.com/vi/gqL0Rr-YbAc/hq720.jpg?v=6ad8b121&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7iHjokHidcbitzpUXlPVEMuYx6Q",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "1 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "1 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
-    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
-    "status": "live",
-    "viewer_count": 1,
-    "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -556,24 +324,82 @@
     "thumbnail_url": "https://i.ytimg.com/vi/nIX1vgQF9Ls/hq720.jpg?v=6ad7a578&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC1RHzxS8Db-tzVF_SXRxargfeIA",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "1 watching"
+      "4 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "1 watching",
+    "viewer_count_text": "4 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
-    "viewer_count": 1,
+    "viewer_count": 4,
     "waiting_count": null,
-    "recency_signal": "1 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "recency_signal": "4 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 1,
+    "title": "'Answer the question!': Senators torch Soros-funded witness at fiery Minnesota Somali fraud hearing",
+    "url": "https://www.youtube.com/watch?v=OKQdj62cRCM",
+    "thumbnail_url": "https://i.ytimg.com/vi/OKQdj62cRCM/hq720.jpg?v=6ada3d83&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCww_lMrQYouZOtyL2zAPGpZjn8fg",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "3 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "3 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 3,
+    "waiting_count": null,
+    "recency_signal": "3 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 7,
+    "title": "'Who was the real Prez?': Autopen scandal explodes at ‘Biden cover-up’ hearing; Senators erupt",
+    "url": "https://www.youtube.com/watch?v=gqL0Rr-YbAc",
+    "thumbnail_url": "https://i.ytimg.com/vi/gqL0Rr-YbAc/hq720.jpg?v=6ad8b121&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7iHjokHidcbitzpUXlPVEMuYx6Q",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "3 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "3 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 3,
+    "waiting_count": null,
+    "recency_signal": "3 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -584,6 +410,35 @@
     "url": "https://www.youtube.com/watch?v=zClY7UmBb1g",
     "thumbnail_url": "https://i.ytimg.com/vi/zClY7UmBb1g/hq720.jpg?v=6ad1147b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0uncPHtZ_DD_3yNL3ERmKbPF1Ig",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "3 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "3 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 3,
+    "waiting_count": null,
+    "recency_signal": "3 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 3,
+    "title": "LIVE | Todd Blanche, Kash Patel hold news conference on major law enforcement",
+    "url": "https://www.youtube.com/watch?v=QMPQJ8mPsQw",
+    "thumbnail_url": "https://i.ytimg.com/vi/QMPQJ8mPsQw/hq720.jpg?v=6ada1857&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0H0rtfzvDwiTNUh38kdoAMS9v-Q",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [],
     "overlay_texts": [
       "LIVE"
@@ -591,16 +446,43 @@
     "viewer_count_text": "1 watching now",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
     "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
     "status": "live",
     "viewer_count": 1,
     "waiting_count": null,
     "recency_signal": "1 watching now | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:04+00:00",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:30+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "watch_page",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "The Economic Times",
+    "position": 5,
+    "title": "'You narcissist & megalomaniac!': GOP Senators clash with Fauci at fiery 'COVID lies' hearing",
+    "url": "https://www.youtube.com/watch?v=r4c0T94Paj0",
+    "thumbnail_url": "https://i.ytimg.com/vi/r4c0T94Paj0/hq720.jpg?v=6ad8cd75&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDRJqnUOKqRdy-Oj16OmOc_K3L_A",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "1 watching now",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@TheEconomicTimes/streams",
+    "status": "live",
+    "viewer_count": 1,
+    "waiting_count": null,
+    "recency_signal": "1 watching now | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:31+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "watch_page",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
@@ -612,111 +494,198 @@
     "thumbnail_url": "https://i.ytimg.com/vi/KQp-e_XQnDE/hq720.jpg?v=69c6a8cc&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQr6d_KsRb6PCTNa99EA2WD_mBTw",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "98 watching"
+      "88 watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "98 watching",
+    "viewer_count_text": "88 watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
     "source_page": "https://www.youtube.com/@YahooFinance/streams",
     "status": "live",
-    "viewer_count": 98,
+    "viewer_count": 88,
     "waiting_count": null,
-    "recency_signal": "98 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "recency_signal": "88 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Zee Business",
     "position": 5,
-    "title": "Zee Business Live | Anil Singhvi | Share Market Live Updates | Stock Market News",
-    "url": "https://www.youtube.com/watch?v=JHh2HgJnBZI",
-    "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hq720.jpg?v=6ab5d9da&sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDmHhhT8HCRDJc-HDHibIrWQxtWlg",
+    "title": "First Trade 23rd October 2026: Zee Business Live | Share Market Live Updates | Stock Market News",
+    "url": "https://www.youtube.com/watch?v=6NLuAQtqj_g",
+    "thumbnail_url": "https://i.ytimg.com/vi/6NLuAQtqj_g/hq720.jpg?v=6adab31c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmEwhdggfvq1hhs9N8_Ujt4bVhhg",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "38 watching"
+      "31K watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "38 watching",
+    "viewer_count_text": "31K watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 38,
+    "viewer_count": 31000,
     "waiting_count": null,
-    "recency_signal": "38 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "recency_signal": "31K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "waiting_count_status": "not_applicable",
-    "waiting_count_source": ""
-  },
-  {
-    "channel": "Zee Business",
-    "position": 1,
-    "title": "Zee Business Live | Share Market Live Updates | Stock Market News | Zee Biz",
-    "url": "https://www.youtube.com/watch?v=BzIdhLRKCuI",
-    "thumbnail_url": "https://i.ytimg.com/vi/BzIdhLRKCuI/hq720.jpg?v=6ada3e8c&sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBslyqZxWrgZkOulIBivE4N61X_Uw",
-    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "metadata_texts": [
-      "26 watching"
-    ],
-    "overlay_texts": [
-      "LIVE"
-    ],
-    "viewer_count_text": "26 watching",
-    "waiting_count_text": "",
-    "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
-    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
-    "status": "live",
-    "viewer_count": 26,
-    "waiting_count": null,
-    "recency_signal": "26 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
-    "viewer_count_status": "available",
-    "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   },
   {
     "channel": "Zee Business",
     "position": 3,
-    "title": "Zee Business 24x7 Live | Share Market Live Updates | Stock Market News | Zee Biz",
-    "url": "https://www.youtube.com/watch?v=xhnCofcC6-U",
-    "thumbnail_url": "https://i.ytimg.com/vi/xhnCofcC6-U/hq720.jpg?v=6ad95f2e&sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAZWOZRQihpLlnoCzIt8XnABbjJIg",
+    "title": "Share Bazaar Live और First Trade में बाजार का शुरुआती एक्शन Anil Singhvi के साथ 23rd October 2026",
+    "url": "https://www.youtube.com/watch?v=5bM7ABsE9Kc",
+    "thumbnail_url": "https://i.ytimg.com/vi/5bM7ABsE9Kc/hq720.jpg?v=6adac534&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcJTPVtpSLN5DT31y5AIMW-0Df8Q",
     "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
     "metadata_texts": [
-      "14 watching"
+      "4.2K watching"
     ],
     "overlay_texts": [
       "LIVE"
     ],
-    "viewer_count_text": "14 watching",
+    "viewer_count_text": "4.2K watching",
     "waiting_count_text": "",
     "scheduled_at_text": "",
-    "collected_at_iso": "2026-10-22T23:53:03+00:00",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
     "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
     "status": "live",
-    "viewer_count": 14,
+    "viewer_count": 4200,
     "waiting_count": null,
-    "recency_signal": "14 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
-    "viewer_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "recency_signal": "4.2K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "viewer_count_status": "available",
     "viewer_count_source": "channel_listing",
-    "waiting_count_checked_at_iso": "2026-10-22T23:53:03+00:00",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Zee Business",
+    "position": 9,
+    "title": "Zee Business 24x7 Live | Share Market Live Updates | Stock Market News | Zee Biz",
+    "url": "https://www.youtube.com/watch?v=CIAUjXx1gN4",
+    "thumbnail_url": "https://i.ytimg.com/vi/CIAUjXx1gN4/hq720.jpg?v=6adab261&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASZX0RqETQ-LbgRfx71x48q7tc0A",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "1.5K watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "1.5K watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 1500,
+    "waiting_count": null,
+    "recency_signal": "1.5K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Zee Business",
+    "position": 7,
+    "title": "Anil Singhvi LIVE: आज कहां करें इन्वेस्ट | Stock Market Update | Business & Finance | Zee Business",
+    "url": "https://www.youtube.com/watch?v=JUdawUJw2Bs",
+    "thumbnail_url": "https://i.ytimg.com/vi/JUdawUJw2Bs/hq720.jpg?v=6adab4c5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADTtGIPri_BDARPCZEvInjxhfbfA",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "1K watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "1K watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 1000,
+    "waiting_count": null,
+    "recency_signal": "1K watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Zee Business",
+    "position": 11,
+    "title": "Zee Business Live | Anil Singhvi | Share Market Live Updates | Stock Market News",
+    "url": "https://www.youtube.com/watch?v=JHh2HgJnBZI",
+    "thumbnail_url": "https://i.ytimg.com/vi/JHh2HgJnBZI/hq720.jpg?v=6ab5d9da&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBb3rTh3Q3M5oIDNjJ-JVJVLwGug",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "866 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "866 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 866,
+    "waiting_count": null,
+    "recency_signal": "866 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "waiting_count_status": "not_applicable",
+    "waiting_count_source": ""
+  },
+  {
+    "channel": "Zee Business",
+    "position": 1,
+    "title": "Delhi-NCR Air Pollution: दिल्ली-NCR में हवा की गुणवत्ता खराब होने पर GRAP Stage 1 लागू!",
+    "url": "https://www.youtube.com/watch?v=HlbaHtl-LXk",
+    "thumbnail_url": "https://i.ytimg.com/vi/HlbaHtl-LXk/hq720.jpg?v=6adacf0c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqO1y3TZHH1HXPr_OMv4eEDvuBjg",
+    "badge_text": "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "metadata_texts": [
+      "30 watching"
+    ],
+    "overlay_texts": [
+      "LIVE"
+    ],
+    "viewer_count_text": "30 watching",
+    "waiting_count_text": "",
+    "scheduled_at_text": "",
+    "collected_at_iso": "2026-10-23T03:16:29+00:00",
+    "source_page": "https://www.youtube.com/@ZeeBusiness/streams",
+    "status": "live",
+    "viewer_count": 30,
+    "waiting_count": null,
+    "recency_signal": "30 watching | THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE",
+    "viewer_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
+    "viewer_count_status": "available",
+    "viewer_count_source": "channel_listing",
+    "waiting_count_checked_at_iso": "2026-10-23T03:16:29+00:00",
     "waiting_count_status": "not_applicable",
     "waiting_count_source": ""
   }
